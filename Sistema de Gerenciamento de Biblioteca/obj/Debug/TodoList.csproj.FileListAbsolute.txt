@@ -1,0 +1,51 @@
+C:\Users\myadr\OneDrive\Desktop\Projetos em C#\Sistema de Gerenciamento de Biblioteca\bin\Debug\x86\sqlite3.dll
+C:\Users\myadr\OneDrive\Desktop\Projetos em C#\Sistema de Gerenciamento de Biblioteca\bin\Debug\x64\sqlite3.dll
+C:\Users\myadr\OneDrive\Desktop\Projetos em C#\Sistema de Gerenciamento de Biblioteca\bin\Debug\Sistema de Gerenciamento de Biblioteca.exe.config
+C:\Users\myadr\OneDrive\Desktop\Projetos em C#\Sistema de Gerenciamento de Biblioteca\bin\Debug\Sistema de Gerenciamento de Biblioteca.exe
+C:\Users\myadr\OneDrive\Desktop\Projetos em C#\Sistema de Gerenciamento de Biblioteca\bin\Debug\Sistema de Gerenciamento de Biblioteca.pdb
+C:\Users\myadr\OneDrive\Desktop\Projetos em C#\Sistema de Gerenciamento de Biblioteca\bin\Debug\ControlzEx.dll
+C:\Users\myadr\OneDrive\Desktop\Projetos em C#\Sistema de Gerenciamento de Biblioteca\bin\Debug\MahApps.Metro.dll
+C:\Users\myadr\OneDrive\Desktop\Projetos em C#\Sistema de Gerenciamento de Biblioteca\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\myadr\OneDrive\Desktop\Projetos em C#\Sistema de Gerenciamento de Biblioteca\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\myadr\OneDrive\Desktop\Projetos em C#\Sistema de Gerenciamento de Biblioteca\bin\Debug\Newtonsoft.Json.dll
+C:\Users\myadr\OneDrive\Desktop\Projetos em C#\Sistema de Gerenciamento de Biblioteca\bin\Debug\RestSharp.dll
+C:\Users\myadr\OneDrive\Desktop\Projetos em C#\Sistema de Gerenciamento de Biblioteca\bin\Debug\System.Buffers.dll
+C:\Users\myadr\OneDrive\Desktop\Projetos em C#\Sistema de Gerenciamento de Biblioteca\bin\Debug\System.CodeDom.dll
+C:\Users\myadr\OneDrive\Desktop\Projetos em C#\Sistema de Gerenciamento de Biblioteca\bin\Debug\System.Data.SQLite.dll
+C:\Users\myadr\OneDrive\Desktop\Projetos em C#\Sistema de Gerenciamento de Biblioteca\bin\Debug\System.Memory.dll
+C:\Users\myadr\OneDrive\Desktop\Projetos em C#\Sistema de Gerenciamento de Biblioteca\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\myadr\OneDrive\Desktop\Projetos em C#\Sistema de Gerenciamento de Biblioteca\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\myadr\OneDrive\Desktop\Projetos em C#\Sistema de Gerenciamento de Biblioteca\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\myadr\OneDrive\Desktop\Projetos em C#\Sistema de Gerenciamento de Biblioteca\bin\Debug\System.Text.Json.dll
+C:\Users\myadr\OneDrive\Desktop\Projetos em C#\Sistema de Gerenciamento de Biblioteca\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\myadr\OneDrive\Desktop\Projetos em C#\Sistema de Gerenciamento de Biblioteca\bin\Debug\System.ValueTuple.dll
+C:\Users\myadr\OneDrive\Desktop\Projetos em C#\Sistema de Gerenciamento de Biblioteca\bin\Debug\ControlzEx.pdb
+C:\Users\myadr\OneDrive\Desktop\Projetos em C#\Sistema de Gerenciamento de Biblioteca\bin\Debug\ControlzEx.xml
+C:\Users\myadr\OneDrive\Desktop\Projetos em C#\Sistema de Gerenciamento de Biblioteca\bin\Debug\MahApps.Metro.pdb
+C:\Users\myadr\OneDrive\Desktop\Projetos em C#\Sistema de Gerenciamento de Biblioteca\bin\Debug\MahApps.Metro.xml
+C:\Users\myadr\OneDrive\Desktop\Projetos em C#\Sistema de Gerenciamento de Biblioteca\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\myadr\OneDrive\Desktop\Projetos em C#\Sistema de Gerenciamento de Biblioteca\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\myadr\OneDrive\Desktop\Projetos em C#\Sistema de Gerenciamento de Biblioteca\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\myadr\OneDrive\Desktop\Projetos em C#\Sistema de Gerenciamento de Biblioteca\bin\Debug\Newtonsoft.Json.xml
+C:\Users\myadr\OneDrive\Desktop\Projetos em C#\Sistema de Gerenciamento de Biblioteca\bin\Debug\RestSharp.xml
+C:\Users\myadr\OneDrive\Desktop\Projetos em C#\Sistema de Gerenciamento de Biblioteca\bin\Debug\System.Buffers.xml
+C:\Users\myadr\OneDrive\Desktop\Projetos em C#\Sistema de Gerenciamento de Biblioteca\bin\Debug\System.CodeDom.xml
+C:\Users\myadr\OneDrive\Desktop\Projetos em C#\Sistema de Gerenciamento de Biblioteca\bin\Debug\System.Data.SQLite.xml
+C:\Users\myadr\OneDrive\Desktop\Projetos em C#\Sistema de Gerenciamento de Biblioteca\bin\Debug\System.Memory.xml
+C:\Users\myadr\OneDrive\Desktop\Projetos em C#\Sistema de Gerenciamento de Biblioteca\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\myadr\OneDrive\Desktop\Projetos em C#\Sistema de Gerenciamento de Biblioteca\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\myadr\OneDrive\Desktop\Projetos em C#\Sistema de Gerenciamento de Biblioteca\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\myadr\OneDrive\Desktop\Projetos em C#\Sistema de Gerenciamento de Biblioteca\bin\Debug\System.Text.Json.xml
+C:\Users\myadr\OneDrive\Desktop\Projetos em C#\Sistema de Gerenciamento de Biblioteca\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\myadr\OneDrive\Desktop\Projetos em C#\Sistema de Gerenciamento de Biblioteca\bin\Debug\System.ValueTuple.xml
+C:\Users\myadr\OneDrive\Desktop\Projetos em C#\Sistema de Gerenciamento de Biblioteca\bin\Debug\de\MahApps.Metro.resources.dll
+C:\Users\myadr\OneDrive\Desktop\Projetos em C#\Sistema de Gerenciamento de Biblioteca\obj\Debug\TodoList.csproj.AssemblyReference.cache
+C:\Users\myadr\OneDrive\Desktop\Projetos em C#\Sistema de Gerenciamento de Biblioteca\obj\Debug\TodoList.csproj.SuggestedBindingRedirects.cache
+C:\Users\myadr\OneDrive\Desktop\Projetos em C#\Sistema de Gerenciamento de Biblioteca\obj\Debug\Sistema de Gerenciamento de Biblioteca.exe.config
+C:\Users\myadr\OneDrive\Desktop\Projetos em C#\Sistema de Gerenciamento de Biblioteca\obj\Debug\Sistema_de_Gerenciamento_de_Biblioteca.Form1.resources
+C:\Users\myadr\OneDrive\Desktop\Projetos em C#\Sistema de Gerenciamento de Biblioteca\obj\Debug\Sistema_de_Gerenciamento_de_Biblioteca.Properties.Resources.resources
+C:\Users\myadr\OneDrive\Desktop\Projetos em C#\Sistema de Gerenciamento de Biblioteca\obj\Debug\TodoList.csproj.GenerateResource.cache
+C:\Users\myadr\OneDrive\Desktop\Projetos em C#\Sistema de Gerenciamento de Biblioteca\obj\Debug\TodoList.csproj.CoreCompileInputs.cache
+C:\Users\myadr\OneDrive\Desktop\Projetos em C#\Sistema de Gerenciamento de Biblioteca\obj\Debug\TodoList.csproj.Up2Date
+C:\Users\myadr\OneDrive\Desktop\Projetos em C#\Sistema de Gerenciamento de Biblioteca\obj\Debug\Sistema de Gerenciamento de Biblioteca.exe
+C:\Users\myadr\OneDrive\Desktop\Projetos em C#\Sistema de Gerenciamento de Biblioteca\obj\Debug\Sistema de Gerenciamento de Biblioteca.pdb
