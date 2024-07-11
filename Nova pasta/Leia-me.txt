@@ -1,0 +1,5 @@
+Gerenciamento completo de pacientes, com authentificação, pagamentos, relatorios, cadastro de erros e mensageria..
+Gerenciamento de funcionarios com flexibilidade e ajustes, além de ajudas do software. Terá tudo do que tera nos pacientes, porém com mais funcionalidades
+Gerenciamento de Finanças da empresa.
+Supervisão geral de cada departamento, assim monitorando os setores que precisam de + ou - méicos!
+//--- Outras funcionalidades podem ser adicionadas futuramente ---
