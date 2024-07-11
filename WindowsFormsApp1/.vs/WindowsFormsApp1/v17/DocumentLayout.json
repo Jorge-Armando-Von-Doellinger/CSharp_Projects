@@ -1,0 +1,254 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\myadr\\OneDrive\\Documentos\\GitHub\\CSharp_Projects\\CSharp_Projects\\WindowsFormsApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{48EB0B6A-4585-4DDB-9A15-84457536371B}|WindowsFormsApp1.csproj|c:\\users\\myadr\\onedrive\\documentos\\github\\csharp_projects\\csharp_projects\\windowsformsapp1\\f_insertlot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48EB0B6A-4585-4DDB-9A15-84457536371B}|WindowsFormsApp1.csproj|solutionrelative:f_insertlot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48EB0B6A-4585-4DDB-9A15-84457536371B}|WindowsFormsApp1.csproj|C:\\Users\\myadr\\OneDrive\\Documentos\\GitHub\\CSharp_Projects\\CSharp_Projects\\WindowsFormsApp1\\readbarfromimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48EB0B6A-4585-4DDB-9A15-84457536371B}|WindowsFormsApp1.csproj|solutionrelative:readbarfromimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48EB0B6A-4585-4DDB-9A15-84457536371B}|WindowsFormsApp1.csproj|C:\\Users\\myadr\\OneDrive\\Documentos\\GitHub\\CSharp_Projects\\CSharp_Projects\\WindowsFormsApp1\\f_insertlot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{48EB0B6A-4585-4DDB-9A15-84457536371B}|WindowsFormsApp1.csproj|solutionrelative:f_insertlot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48EB0B6A-4585-4DDB-9A15-84457536371B}|WindowsFormsApp1.csproj|C:\\Users\\myadr\\OneDrive\\Documentos\\GitHub\\CSharp_Projects\\CSharp_Projects\\WindowsFormsApp1\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{48EB0B6A-4585-4DDB-9A15-84457536371B}|WindowsFormsApp1.csproj|solutionrelative:properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48EB0B6A-4585-4DDB-9A15-84457536371B}|WindowsFormsApp1.csproj|c:\\users\\myadr\\onedrive\\documentos\\github\\csharp_projects\\csharp_projects\\windowsformsapp1\\properties\\settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}",
+      "RelativeMoniker": "D:0:0:{48EB0B6A-4585-4DDB-9A15-84457536371B}|WindowsFormsApp1.csproj|solutionrelative:properties\\settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48EB0B6A-4585-4DDB-9A15-84457536371B}|WindowsFormsApp1.csproj|C:\\Users\\myadr\\OneDrive\\Documentos\\GitHub\\CSharp_Projects\\CSharp_Projects\\WindowsFormsApp1\\ucontrol_department_sales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48EB0B6A-4585-4DDB-9A15-84457536371B}|WindowsFormsApp1.csproj|solutionrelative:ucontrol_department_sales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48EB0B6A-4585-4DDB-9A15-84457536371B}|WindowsFormsApp1.csproj|C:\\Users\\myadr\\OneDrive\\Documentos\\GitHub\\CSharp_Projects\\CSharp_Projects\\WindowsFormsApp1\\ucontrol_lots_management.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48EB0B6A-4585-4DDB-9A15-84457536371B}|WindowsFormsApp1.csproj|solutionrelative:ucontrol_lots_management.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48EB0B6A-4585-4DDB-9A15-84457536371B}|WindowsFormsApp1.csproj|C:\\Users\\myadr\\OneDrive\\Documentos\\GitHub\\CSharp_Projects\\CSharp_Projects\\WindowsFormsApp1\\ucontrol_products_management.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48EB0B6A-4585-4DDB-9A15-84457536371B}|WindowsFormsApp1.csproj|solutionrelative:ucontrol_products_management.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48EB0B6A-4585-4DDB-9A15-84457536371B}|WindowsFormsApp1.csproj|C:\\Users\\myadr\\OneDrive\\Documentos\\GitHub\\CSharp_Projects\\CSharp_Projects\\WindowsFormsApp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48EB0B6A-4585-4DDB-9A15-84457536371B}|WindowsFormsApp1.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48EB0B6A-4585-4DDB-9A15-84457536371B}|WindowsFormsApp1.csproj|C:\\Users\\myadr\\OneDrive\\Documentos\\GitHub\\CSharp_Projects\\CSharp_Projects\\WindowsFormsApp1\\ucontrol_products_management.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{48EB0B6A-4585-4DDB-9A15-84457536371B}|WindowsFormsApp1.csproj|solutionrelative:ucontrol_products_management.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48EB0B6A-4585-4DDB-9A15-84457536371B}|WindowsFormsApp1.csproj|C:\\Users\\myadr\\OneDrive\\Documentos\\GitHub\\CSharp_Projects\\CSharp_Projects\\WindowsFormsApp1\\ucontrol_department_sales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{48EB0B6A-4585-4DDB-9A15-84457536371B}|WindowsFormsApp1.csproj|solutionrelative:ucontrol_department_sales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48EB0B6A-4585-4DDB-9A15-84457536371B}|WindowsFormsApp1.csproj|C:\\Users\\myadr\\OneDrive\\Documentos\\GitHub\\CSharp_Projects\\CSharp_Projects\\WindowsFormsApp1\\requests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48EB0B6A-4585-4DDB-9A15-84457536371B}|WindowsFormsApp1.csproj|solutionrelative:requests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48EB0B6A-4585-4DDB-9A15-84457536371B}|WindowsFormsApp1.csproj|C:\\Users\\myadr\\OneDrive\\Documentos\\GitHub\\CSharp_Projects\\CSharp_Projects\\WindowsFormsApp1\\ucontrol_lots_management.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{48EB0B6A-4585-4DDB-9A15-84457536371B}|WindowsFormsApp1.csproj|solutionrelative:ucontrol_lots_management.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48EB0B6A-4585-4DDB-9A15-84457536371B}|WindowsFormsApp1.csproj|C:\\Users\\myadr\\OneDrive\\Documentos\\GitHub\\CSharp_Projects\\CSharp_Projects\\WindowsFormsApp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{48EB0B6A-4585-4DDB-9A15-84457536371B}|WindowsFormsApp1.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Settings.settings",
+              "DocumentMoniker": "C:\\Users\\myadr\\OneDrive\\Documentos\\GitHub\\CSharp_Projects\\CSharp_Projects\\WindowsFormsApp1\\Properties\\Settings.settings",
+              "RelativeDocumentMoniker": "Properties\\Settings.settings",
+              "ToolTip": "C:\\Users\\myadr\\OneDrive\\Documentos\\GitHub\\CSharp_Projects\\CSharp_Projects\\WindowsFormsApp1\\Properties\\Settings.settings",
+              "RelativeToolTip": "Properties\\Settings.settings",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002767|",
+              "WhenOpened": "2024-06-08T22:09:17.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "F_InsertLot.cs",
+              "DocumentMoniker": "C:\\Users\\myadr\\OneDrive\\Documentos\\GitHub\\CSharp_Projects\\CSharp_Projects\\WindowsFormsApp1\\F_InsertLot.cs",
+              "RelativeDocumentMoniker": "F_InsertLot.cs",
+              "ToolTip": "C:\\Users\\myadr\\OneDrive\\Documentos\\GitHub\\CSharp_Projects\\CSharp_Projects\\WindowsFormsApp1\\F_InsertLot.cs",
+              "RelativeToolTip": "F_InsertLot.cs",
+              "ViewState": "AQIAAMQAAAAAAAAAAAAYwM8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T17:06:44.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReadBarFromImage.cs",
+              "DocumentMoniker": "C:\\Users\\myadr\\OneDrive\\Documentos\\GitHub\\CSharp_Projects\\CSharp_Projects\\WindowsFormsApp1\\ReadBarFromImage.cs",
+              "RelativeDocumentMoniker": "ReadBarFromImage.cs",
+              "ToolTip": "C:\\Users\\myadr\\OneDrive\\Documentos\\GitHub\\CSharp_Projects\\CSharp_Projects\\WindowsFormsApp1\\ReadBarFromImage.cs",
+              "RelativeToolTip": "ReadBarFromImage.cs",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAcwFUAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T14:17:17.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UControl_Department_Sales.cs",
+              "DocumentMoniker": "C:\\Users\\myadr\\OneDrive\\Documentos\\GitHub\\CSharp_Projects\\CSharp_Projects\\WindowsFormsApp1\\UControl_Department_Sales.cs",
+              "RelativeDocumentMoniker": "UControl_Department_Sales.cs",
+              "ToolTip": "C:\\Users\\myadr\\OneDrive\\Documentos\\GitHub\\CSharp_Projects\\CSharp_Projects\\WindowsFormsApp1\\UControl_Department_Sales.cs",
+              "RelativeToolTip": "UControl_Department_Sales.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAgwBcAAABjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T15:31:14.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Resources.resx",
+              "DocumentMoniker": "C:\\Users\\myadr\\OneDrive\\Documentos\\GitHub\\CSharp_Projects\\CSharp_Projects\\WindowsFormsApp1\\Properties\\Resources.resx",
+              "RelativeDocumentMoniker": "Properties\\Resources.resx",
+              "ToolTip": "C:\\Users\\myadr\\OneDrive\\Documentos\\GitHub\\CSharp_Projects\\CSharp_Projects\\WindowsFormsApp1\\Properties\\Resources.resx",
+              "RelativeToolTip": "Properties\\Resources.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-06-04T15:32:07.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "F_InsertLot.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\myadr\\OneDrive\\Documentos\\GitHub\\CSharp_Projects\\CSharp_Projects\\WindowsFormsApp1\\F_InsertLot.cs",
+              "RelativeDocumentMoniker": "F_InsertLot.cs",
+              "ToolTip": "C:\\Users\\myadr\\OneDrive\\Documentos\\GitHub\\CSharp_Projects\\CSharp_Projects\\WindowsFormsApp1\\F_InsertLot.cs [Design]",
+              "RelativeToolTip": "F_InsertLot.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T17:06:40.013Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UControl_Lots_Management.cs",
+              "DocumentMoniker": "C:\\Users\\myadr\\OneDrive\\Documentos\\GitHub\\CSharp_Projects\\CSharp_Projects\\WindowsFormsApp1\\UControl_Lots_Management.cs",
+              "RelativeDocumentMoniker": "UControl_Lots_Management.cs",
+              "ToolTip": "C:\\Users\\myadr\\OneDrive\\Documentos\\GitHub\\CSharp_Projects\\CSharp_Projects\\WindowsFormsApp1\\UControl_Lots_Management.cs",
+              "RelativeToolTip": "UControl_Lots_Management.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwA8AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T22:44:38.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UControl_Products_Management.cs",
+              "DocumentMoniker": "C:\\Users\\myadr\\OneDrive\\Documentos\\GitHub\\CSharp_Projects\\CSharp_Projects\\WindowsFormsApp1\\UControl_Products_Management.cs",
+              "RelativeDocumentMoniker": "UControl_Products_Management.cs",
+              "ToolTip": "C:\\Users\\myadr\\OneDrive\\Documentos\\GitHub\\CSharp_Projects\\CSharp_Projects\\WindowsFormsApp1\\UControl_Products_Management.cs",
+              "RelativeToolTip": "UControl_Products_Management.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAABMAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T18:48:03.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\myadr\\OneDrive\\Documentos\\GitHub\\CSharp_Projects\\CSharp_Projects\\WindowsFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\myadr\\OneDrive\\Documentos\\GitHub\\CSharp_Projects\\CSharp_Projects\\WindowsFormsApp1\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAwwBMAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T18:19:24.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UControl_Products_Management.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\myadr\\OneDrive\\Documentos\\GitHub\\CSharp_Projects\\CSharp_Projects\\WindowsFormsApp1\\UControl_Products_Management.cs",
+              "RelativeDocumentMoniker": "UControl_Products_Management.cs",
+              "ToolTip": "C:\\Users\\myadr\\OneDrive\\Documentos\\GitHub\\CSharp_Projects\\CSharp_Projects\\WindowsFormsApp1\\UControl_Products_Management.cs [Design]",
+              "RelativeToolTip": "UControl_Products_Management.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T18:33:48.664Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UControl_Department_Sales.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\myadr\\OneDrive\\Documentos\\GitHub\\CSharp_Projects\\CSharp_Projects\\WindowsFormsApp1\\UControl_Department_Sales.cs",
+              "RelativeDocumentMoniker": "UControl_Department_Sales.cs",
+              "ToolTip": "C:\\Users\\myadr\\OneDrive\\Documentos\\GitHub\\CSharp_Projects\\CSharp_Projects\\WindowsFormsApp1\\UControl_Department_Sales.cs [Design]",
+              "RelativeToolTip": "UControl_Department_Sales.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T14:52:55.109Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Requests.cs",
+              "DocumentMoniker": "C:\\Users\\myadr\\OneDrive\\Documentos\\GitHub\\CSharp_Projects\\CSharp_Projects\\WindowsFormsApp1\\Requests.cs",
+              "RelativeDocumentMoniker": "Requests.cs",
+              "ToolTip": "C:\\Users\\myadr\\OneDrive\\Documentos\\GitHub\\CSharp_Projects\\CSharp_Projects\\WindowsFormsApp1\\Requests.cs",
+              "RelativeToolTip": "Requests.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAgwBwAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T14:22:25.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UControl_Lots_Management.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\myadr\\OneDrive\\Documentos\\GitHub\\CSharp_Projects\\CSharp_Projects\\WindowsFormsApp1\\UControl_Lots_Management.cs",
+              "RelativeDocumentMoniker": "UControl_Lots_Management.cs",
+              "ToolTip": "C:\\Users\\myadr\\OneDrive\\Documentos\\GitHub\\CSharp_Projects\\CSharp_Projects\\WindowsFormsApp1\\UControl_Lots_Management.cs [Design]",
+              "RelativeToolTip": "UControl_Lots_Management.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T22:44:04.57Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\myadr\\OneDrive\\Documentos\\GitHub\\CSharp_Projects\\CSharp_Projects\\WindowsFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\myadr\\OneDrive\\Documentos\\GitHub\\CSharp_Projects\\CSharp_Projects\\WindowsFormsApp1\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T18:17:12.122Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

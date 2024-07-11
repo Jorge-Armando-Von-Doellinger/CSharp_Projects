@@ -118,76 +118,94 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="icon_list3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\Debug\images\icon_list3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="Icon_Add" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\bin\Debug\images\Icon_Add.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Icon_Delete" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\bin\Debug\images\Icon_Delete.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Icon_Management" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\bin\Debug\images\Icon_Management.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Icon_Management2" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\bin\Debug\images\Icon_Management2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Inventory_AmountUN_Column" xml:space="preserve">
-    <value>Product_Amount_UN</value>
   </data>
   <data name="Inventory_Amount_Column" xml:space="preserve">
     <value>Product_Amount</value>
   </data>
-  <data name="Inventory_Date_Expiration_Column" xml:space="preserve">
-    <value>Products_Date_Expiration</value>
-  </data>
-  <data name="Inventory_ID_Column" xml:space="preserve">
-    <value>Product_ID</value>
+  <data name="Icon_Management2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\Debug\images\Icon_Management2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Inventory_Name_Column" xml:space="preserve">
     <value>Product_Name</value>
   </data>
-  <data name="Inventory_ProfitUN_Column" xml:space="preserve">
-    <value>Product_Profit_UN</value>
-  </data>
-  <data name="Inventory_Profit_Column" xml:space="preserve">
-    <value>Product_Profit</value>
+  <data name="Inventory_Table_Name" xml:space="preserve">
+    <value>Inventory_Management1</value>
   </data>
   <data name="Inventory_Quantity_Column" xml:space="preserve">
     <value>Product_Quantity</value>
   </data>
+  <data name="icon_sales" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\Debug\images\icon_sales.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="Inventory_Solds_Column" xml:space="preserve">
     <value>Products_Sold</value>
   </data>
-  <data name="Inventory_Table_Name" xml:space="preserve">
-    <value>Inventory_Management1</value>
-  </data>
-  <data name="Lot_Category_Column" xml:space="preserve">
-    <value>String_Category</value>
+  <data name="Inventory_AmountUN_Column" xml:space="preserve">
+    <value>Product_Amount_UN</value>
   </data>
   <data name="Lot_Date_Expiration_Column" xml:space="preserve">
     <value>String_Date_Expiration</value>
   </data>
-  <data name="Lot_ID_Column" xml:space="preserve">
-    <value>Int_ID</value>
+  <data name="icon_list2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\Debug\images\icon_list2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Lot_Name_Column" xml:space="preserve">
-    <value>String_Product</value>
-  </data>
-  <data name="Lot_Price_Lote_Column" xml:space="preserve">
-    <value>Decimal_Price_Lote</value>
+  <data name="Icon_Delete" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\Debug\images\Icon_Delete.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Lot_Profit_Percentage_Column" xml:space="preserve">
     <value>Decimal_Total_Profit_Percentage</value>
   </data>
-  <data name="Lot_Quatity_Products_Column" xml:space="preserve">
-    <value>Int_Quantity_Products</value>
+  <data name="icon_sales1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\Debug\images\icon_sales1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Lot_Units_Solds_Column" xml:space="preserve">
+    <value>Int_Number_Of_Units_Sold</value>
+  </data>
+  <data name="Inventory_Date_Expiration_Column" xml:space="preserve">
+    <value>Products_Date_Expiration</value>
   </data>
   <data name="Lot_Status_Column" xml:space="preserve">
     <value>String_Stauts</value>
   </data>
+  <data name="Lot_ID_Column" xml:space="preserve">
+    <value>Int_ID</value>
+  </data>
+  <data name="Lot_Category_Column" xml:space="preserve">
+    <value>String_Category</value>
+  </data>
+  <data name="Lot_Price_Lote_Column" xml:space="preserve">
+    <value>Decimal_Price_Lote</value>
+  </data>
+  <data name="Inventory_ProfitUN_Column" xml:space="preserve">
+    <value>Product_Profit_UN</value>
+  </data>
+  <data name="icon_list" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\Debug\images\icon_list.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Lot_Quatity_Products_Column" xml:space="preserve">
+    <value>Int_Quantity_Products</value>
+  </data>
+  <data name="Inventory_Profit_Column" xml:space="preserve">
+    <value>Product_Profit</value>
+  </data>
+  <data name="Lot_Name_Column" xml:space="preserve">
+    <value>String_Product</value>
+  </data>
   <data name="Lot_Table_Name" xml:space="preserve">
     <value>Lots_Management</value>
   </data>
-  <data name="Lot_Units_Solds_Column" xml:space="preserve">
-    <value>Int_Number_Of_Units_Sold</value>
+  <data name="Inventory_ID_Column" xml:space="preserve">
+    <value>Product_ID</value>
+  </data>
+  <data name="Icon_Management" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\Debug\images\Icon_Management.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="icons8-performance-de-vendas-80" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\Debug\images\icons8-performance-de-vendas-80.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>

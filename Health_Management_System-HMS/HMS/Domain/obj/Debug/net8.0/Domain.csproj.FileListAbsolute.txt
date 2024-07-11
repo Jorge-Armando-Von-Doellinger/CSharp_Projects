@@ -1,0 +1,15 @@
+C:\Users\myadr\OneDrive\Documentos\GitHub\CSharp_Projects\CSharp_Projects\Health_Management_System-HMS\HMS\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\Users\myadr\OneDrive\Documentos\GitHub\CSharp_Projects\CSharp_Projects\Health_Management_System-HMS\HMS\Domain\bin\Debug\net8.0\Domain.runtimeconfig.json
+C:\Users\myadr\OneDrive\Documentos\GitHub\CSharp_Projects\CSharp_Projects\Health_Management_System-HMS\HMS\Domain\bin\Debug\net8.0\Domain.dll
+C:\Users\myadr\OneDrive\Documentos\GitHub\CSharp_Projects\CSharp_Projects\Health_Management_System-HMS\HMS\Domain\bin\Debug\net8.0\Domain.pdb
+C:\Users\myadr\OneDrive\Documentos\GitHub\CSharp_Projects\CSharp_Projects\Health_Management_System-HMS\HMS\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
+C:\Users\myadr\OneDrive\Documentos\GitHub\CSharp_Projects\CSharp_Projects\Health_Management_System-HMS\HMS\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\myadr\OneDrive\Documentos\GitHub\CSharp_Projects\CSharp_Projects\Health_Management_System-HMS\HMS\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\Users\myadr\OneDrive\Documentos\GitHub\CSharp_Projects\CSharp_Projects\Health_Management_System-HMS\HMS\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\Users\myadr\OneDrive\Documentos\GitHub\CSharp_Projects\CSharp_Projects\Health_Management_System-HMS\HMS\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\myadr\OneDrive\Documentos\GitHub\CSharp_Projects\CSharp_Projects\Health_Management_System-HMS\HMS\Domain\obj\Debug\net8.0\Domain.sourcelink.json
+C:\Users\myadr\OneDrive\Documentos\GitHub\CSharp_Projects\CSharp_Projects\Health_Management_System-HMS\HMS\Domain\obj\Debug\net8.0\Domain.dll
+C:\Users\myadr\OneDrive\Documentos\GitHub\CSharp_Projects\CSharp_Projects\Health_Management_System-HMS\HMS\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\Users\myadr\OneDrive\Documentos\GitHub\CSharp_Projects\CSharp_Projects\Health_Management_System-HMS\HMS\Domain\obj\Debug\net8.0\Domain.pdb
+C:\Users\myadr\OneDrive\Documentos\GitHub\CSharp_Projects\CSharp_Projects\Health_Management_System-HMS\HMS\Domain\obj\Debug\net8.0\Domain.genruntimeconfig.cache
+C:\Users\myadr\OneDrive\Documentos\GitHub\CSharp_Projects\CSharp_Projects\Health_Management_System-HMS\HMS\Domain\obj\Debug\net8.0\ref\Domain.dll

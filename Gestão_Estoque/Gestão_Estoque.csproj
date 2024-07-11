@@ -97,6 +97,7 @@
     <Reference Include="System.Memory, Version=4.0.1.2, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
       <HintPath>packages\System.Memory.4.5.5\lib\net461\System.Memory.dll</HintPath>
     </Reference>
+    <Reference Include="System.Messaging" />
     <Reference Include="System.Numerics" />
     <Reference Include="System.Numerics.Vectors, Version=4.1.4.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
       <HintPath>packages\System.Numerics.Vectors.4.5.0\lib\net46\System.Numerics.Vectors.dll</HintPath>
@@ -135,6 +136,12 @@
     <Compile Include="Form_Gestão_Produto.Designer.cs">
       <DependentUpon>Form_Gestão_Produto.cs</DependentUpon>
     </Compile>
+    <Compile Include="Form_Sales_Division.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Sales_Division.Designer.cs">
+      <DependentUpon>Form_Sales_Division.cs</DependentUpon>
+    </Compile>
     <Compile Include="Form_SelectProduct.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -149,6 +156,12 @@
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
     <Compile Include="SQLite.cs" />
+    <Compile Include="UserControl1.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControl1.Designer.cs">
+      <DependentUpon>UserControl1.cs</DependentUpon>
+    </Compile>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
@@ -158,6 +171,9 @@
     <EmbeddedResource Include="Form_Gestão_Produto.resx">
       <DependentUpon>Form_Gestão_Produto.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Form_Sales_Division.resx">
+      <DependentUpon>Form_Sales_Division.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Form_SelectProduct.resx">
       <DependentUpon>Form_SelectProduct.cs</DependentUpon>
     </EmbeddedResource>
@@ -165,6 +181,9 @@
       <Generator>PublicResXFileCodeGenerator</Generator>
       <SubType>Designer</SubType>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControl1.resx">
+      <DependentUpon>UserControl1.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="packages.config" />
     <None Include="Properties\Settings.settings">
@@ -203,6 +222,24 @@
       <ProductName>.NET Framework 3.5 SP1</ProductName>
       <Install>false</Install>
     </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\images\icon_list.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\images\icon_list2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\images\icon_list3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\images\icon_sales.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\images\icon_sales1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\images\icons8-performance-de-vendas-80.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">

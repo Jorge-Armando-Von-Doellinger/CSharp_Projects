@@ -1,0 +1,12 @@
+C:\Users\myadr\OneDrive\Desktop\Nova pasta\HMS-API\HMS.Domain\bin\Debug\net8.0\HMS.Domain.deps.json
+C:\Users\myadr\OneDrive\Desktop\Nova pasta\HMS-API\HMS.Domain\bin\Debug\net8.0\HMS.Domain.dll
+C:\Users\myadr\OneDrive\Desktop\Nova pasta\HMS-API\HMS.Domain\bin\Debug\net8.0\HMS.Domain.pdb
+C:\Users\myadr\OneDrive\Desktop\Nova pasta\HMS-API\HMS.Domain\obj\Debug\net8.0\HMS.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\myadr\OneDrive\Desktop\Nova pasta\HMS-API\HMS.Domain\obj\Debug\net8.0\HMS.Domain.AssemblyInfoInputs.cache
+C:\Users\myadr\OneDrive\Desktop\Nova pasta\HMS-API\HMS.Domain\obj\Debug\net8.0\HMS.Domain.AssemblyInfo.cs
+C:\Users\myadr\OneDrive\Desktop\Nova pasta\HMS-API\HMS.Domain\obj\Debug\net8.0\HMS.Domain.csproj.CoreCompileInputs.cache
+C:\Users\myadr\OneDrive\Desktop\Nova pasta\HMS-API\HMS.Domain\obj\Debug\net8.0\HMS.Domain.dll
+C:\Users\myadr\OneDrive\Desktop\Nova pasta\HMS-API\HMS.Domain\obj\Debug\net8.0\refint\HMS.Domain.dll
+C:\Users\myadr\OneDrive\Desktop\Nova pasta\HMS-API\HMS.Domain\obj\Debug\net8.0\HMS.Domain.pdb
+C:\Users\myadr\OneDrive\Desktop\Nova pasta\HMS-API\HMS.Domain\obj\Debug\net8.0\ref\HMS.Domain.dll
+C:\Users\myadr\OneDrive\Desktop\Nova pasta\HMS-API\HMS.Domain\obj\Debug\net8.0\HMS.Domain.csproj.AssemblyReference.cache

@@ -1,0 +1,141 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\myadr\\OneDrive\\Desktop\\Nova pasta\\HMS-API\\EmployeeForms\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{25CAD797-4B8F-48ED-9ABF-D15B6E1CEC13}|EmployeeForms\\EmployeeForms.csproj|c:\\users\\myadr\\onedrive\\desktop\\nova pasta\\hms-api\\employeeforms\\employeeforms\\otherforms\\viewmanageemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25CAD797-4B8F-48ED-9ABF-D15B6E1CEC13}|EmployeeForms\\EmployeeForms.csproj|solutionrelative:employeeforms\\otherforms\\viewmanageemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25CAD797-4B8F-48ED-9ABF-D15B6E1CEC13}|EmployeeForms\\EmployeeForms.csproj|c:\\users\\myadr\\onedrive\\desktop\\nova pasta\\hms-api\\employeeforms\\employeeforms\\otherforms\\viewmanageemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{25CAD797-4B8F-48ED-9ABF-D15B6E1CEC13}|EmployeeForms\\EmployeeForms.csproj|solutionrelative:employeeforms\\otherforms\\viewmanageemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25CAD797-4B8F-48ED-9ABF-D15B6E1CEC13}|EmployeeForms\\EmployeeForms.csproj|c:\\users\\myadr\\onedrive\\desktop\\nova pasta\\hms-api\\employeeforms\\employeeforms\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25CAD797-4B8F-48ED-9ABF-D15B6E1CEC13}|EmployeeForms\\EmployeeForms.csproj|solutionrelative:employeeforms\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25CAD797-4B8F-48ED-9ABF-D15B6E1CEC13}|EmployeeForms\\EmployeeForms.csproj|c:\\users\\myadr\\onedrive\\desktop\\nova pasta\\hms-api\\employeeforms\\employeeforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25CAD797-4B8F-48ED-9ABF-D15B6E1CEC13}|EmployeeForms\\EmployeeForms.csproj|solutionrelative:employeeforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25CAD797-4B8F-48ED-9ABF-D15B6E1CEC13}|EmployeeForms\\EmployeeForms.csproj|c:\\users\\myadr\\onedrive\\desktop\\nova pasta\\hms-api\\employeeforms\\employeeforms\\datacontract\\root.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25CAD797-4B8F-48ED-9ABF-D15B6E1CEC13}|EmployeeForms\\EmployeeForms.csproj|solutionrelative:employeeforms\\datacontract\\root.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25CAD797-4B8F-48ED-9ABF-D15B6E1CEC13}|EmployeeForms\\EmployeeForms.csproj|c:\\users\\myadr\\onedrive\\desktop\\nova pasta\\hms-api\\employeeforms\\employeeforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{25CAD797-4B8F-48ED-9ABF-D15B6E1CEC13}|EmployeeForms\\EmployeeForms.csproj|solutionrelative:employeeforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25CAD797-4B8F-48ED-9ABF-D15B6E1CEC13}|EmployeeForms\\EmployeeForms.csproj|c:\\users\\myadr\\onedrive\\desktop\\nova pasta\\hms-api\\employeeforms\\employeeforms\\datacontract\\employeerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25CAD797-4B8F-48ED-9ABF-D15B6E1CEC13}|EmployeeForms\\EmployeeForms.csproj|solutionrelative:employeeforms\\datacontract\\employeerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Root.cs",
+              "DocumentMoniker": "C:\\Users\\myadr\\OneDrive\\Desktop\\Nova pasta\\HMS-API\\EmployeeForms\\EmployeeForms\\DataContract\\Root.cs",
+              "RelativeDocumentMoniker": "EmployeeForms\\DataContract\\Root.cs",
+              "ToolTip": "C:\\Users\\myadr\\OneDrive\\Desktop\\Nova pasta\\HMS-API\\EmployeeForms\\EmployeeForms\\DataContract\\Root.cs",
+              "RelativeToolTip": "EmployeeForms\\DataContract\\Root.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T19:46:39.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\myadr\\OneDrive\\Desktop\\Nova pasta\\HMS-API\\EmployeeForms\\EmployeeForms\\Services\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "EmployeeForms\\Services\\EmployeeService.cs",
+              "ToolTip": "C:\\Users\\myadr\\OneDrive\\Desktop\\Nova pasta\\HMS-API\\EmployeeForms\\EmployeeForms\\Services\\EmployeeService.cs",
+              "RelativeToolTip": "EmployeeForms\\Services\\EmployeeService.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAnwI4AAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T19:03:59.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\myadr\\OneDrive\\Desktop\\Nova pasta\\HMS-API\\EmployeeForms\\EmployeeForms\\Form1.cs",
+              "RelativeDocumentMoniker": "EmployeeForms\\Form1.cs",
+              "ToolTip": "C:\\Users\\myadr\\OneDrive\\Desktop\\Nova pasta\\HMS-API\\EmployeeForms\\EmployeeForms\\Form1.cs",
+              "RelativeToolTip": "EmployeeForms\\Form1.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAgwEwAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T18:55:41.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ViewManageEmployee.cs",
+              "DocumentMoniker": "C:\\Users\\myadr\\OneDrive\\Desktop\\Nova pasta\\HMS-API\\EmployeeForms\\EmployeeForms\\OtherForms\\ViewManageEmployee.cs",
+              "RelativeDocumentMoniker": "EmployeeForms\\OtherForms\\ViewManageEmployee.cs",
+              "ToolTip": "C:\\Users\\myadr\\OneDrive\\Desktop\\Nova pasta\\HMS-API\\EmployeeForms\\EmployeeForms\\OtherForms\\ViewManageEmployee.cs",
+              "RelativeToolTip": "EmployeeForms\\OtherForms\\ViewManageEmployee.cs",
+              "ViewState": "AQIAAGQAAAAAAAAAAAAawHYAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T18:44:52.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ViewManageEmployee.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\myadr\\OneDrive\\Desktop\\Nova pasta\\HMS-API\\EmployeeForms\\EmployeeForms\\OtherForms\\ViewManageEmployee.cs",
+              "RelativeDocumentMoniker": "EmployeeForms\\OtherForms\\ViewManageEmployee.cs",
+              "ToolTip": "C:\\Users\\myadr\\OneDrive\\Desktop\\Nova pasta\\HMS-API\\EmployeeForms\\EmployeeForms\\OtherForms\\ViewManageEmployee.cs [Design]",
+              "RelativeToolTip": "EmployeeForms\\OtherForms\\ViewManageEmployee.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T18:44:41.243Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\myadr\\OneDrive\\Desktop\\Nova pasta\\HMS-API\\EmployeeForms\\EmployeeForms\\Form1.cs",
+              "RelativeDocumentMoniker": "EmployeeForms\\Form1.cs",
+              "ToolTip": "C:\\Users\\myadr\\OneDrive\\Desktop\\Nova pasta\\HMS-API\\EmployeeForms\\EmployeeForms\\Form1.cs [Design]",
+              "RelativeToolTip": "EmployeeForms\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T18:55:36.32Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmployeeRequest.cs",
+              "DocumentMoniker": "C:\\Users\\myadr\\OneDrive\\Desktop\\Nova pasta\\HMS-API\\EmployeeForms\\EmployeeForms\\DataContract\\EmployeeRequest.cs",
+              "RelativeDocumentMoniker": "EmployeeForms\\DataContract\\EmployeeRequest.cs",
+              "ToolTip": "C:\\Users\\myadr\\OneDrive\\Desktop\\Nova pasta\\HMS-API\\EmployeeForms\\EmployeeForms\\DataContract\\EmployeeRequest.cs",
+              "RelativeToolTip": "EmployeeForms\\DataContract\\EmployeeRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T18:46:56.375Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\myadr\\OneDrive\\Desktop\\Nova pasta\\HMS-API\\PatientFoms\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{740D79C3-374C-4576-A9C8-C3E50F26643E}|PatientFoms\\PatientFoms.csproj|c:\\users\\myadr\\onedrive\\desktop\\nova pasta\\hms-api\\patientfoms\\patientfoms\\services\\patientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{740D79C3-374C-4576-A9C8-C3E50F26643E}|PatientFoms\\PatientFoms.csproj|solutionrelative:patientfoms\\services\\patientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{740D79C3-374C-4576-A9C8-C3E50F26643E}|PatientFoms\\PatientFoms.csproj|c:\\users\\myadr\\onedrive\\desktop\\nova pasta\\hms-api\\patientfoms\\patientfoms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{740D79C3-374C-4576-A9C8-C3E50F26643E}|PatientFoms\\PatientFoms.csproj|solutionrelative:patientfoms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PatientService.cs",
+              "DocumentMoniker": "C:\\Users\\myadr\\OneDrive\\Desktop\\Nova pasta\\HMS-API\\PatientFoms\\PatientFoms\\Services\\PatientService.cs",
+              "RelativeDocumentMoniker": "PatientFoms\\Services\\PatientService.cs",
+              "ToolTip": "C:\\Users\\myadr\\OneDrive\\Desktop\\Nova pasta\\HMS-API\\PatientFoms\\PatientFoms\\Services\\PatientService.cs",
+              "RelativeToolTip": "PatientFoms\\Services\\PatientService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T22:53:22.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\myadr\\OneDrive\\Desktop\\Nova pasta\\HMS-API\\PatientFoms\\PatientFoms\\Form1.cs",
+              "RelativeDocumentMoniker": "PatientFoms\\Form1.cs",
+              "ToolTip": "C:\\Users\\myadr\\OneDrive\\Desktop\\Nova pasta\\HMS-API\\PatientFoms\\PatientFoms\\Form1.cs [Design]",
+              "RelativeToolTip": "PatientFoms\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T22:53:13.404Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

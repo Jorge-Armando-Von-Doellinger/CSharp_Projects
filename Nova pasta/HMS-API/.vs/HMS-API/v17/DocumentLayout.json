@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\myadr\\OneDrive\\Desktop\\Nova pasta\\HMS-API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5EE8E10F-2576-4CFB-AE80-14EE2ECF9FDA}|HMS-API\\HMS.API.csproj|c:\\users\\myadr\\onedrive\\desktop\\nova pasta\\hms-api\\hms-api\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EE8E10F-2576-4CFB-AE80-14EE2ECF9FDA}|HMS-API\\HMS.API.csproj|solutionrelative:hms-api\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7427BF62-F61C-4530-8AE6-EDE5023FF95E}|HMS.Application\\HMS.Application.csproj|c:\\users\\myadr\\onedrive\\desktop\\nova pasta\\hms-api\\hms.application\\applications\\employeeapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7427BF62-F61C-4530-8AE6-EDE5023FF95E}|HMS.Application\\HMS.Application.csproj|solutionrelative:hms.application\\applications\\employeeapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D62134D-0E53-4BA1-9228-3449750CFA53}|HMS.Infrastructure\\HMS.Infrastructure.csproj|c:\\users\\myadr\\onedrive\\desktop\\nova pasta\\hms-api\\hms.infrastructure\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D62134D-0E53-4BA1-9228-3449750CFA53}|HMS.Infrastructure\\HMS.Infrastructure.csproj|solutionrelative:hms.infrastructure\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7427BF62-F61C-4530-8AE6-EDE5023FF95E}|HMS.Application\\HMS.Application.csproj|c:\\users\\myadr\\onedrive\\desktop\\nova pasta\\hms-api\\hms.application\\mapper\\employeemapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7427BF62-F61C-4530-8AE6-EDE5023FF95E}|HMS.Application\\HMS.Application.csproj|solutionrelative:hms.application\\mapper\\employeemapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA8302AD-AA3F-4AF7-A021-2D85D70130ED}|HMS.Domain\\HMS.Domain.csproj|c:\\users\\myadr\\onedrive\\desktop\\nova pasta\\hms-api\\hms.domain\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA8302AD-AA3F-4AF7-A021-2D85D70130ED}|HMS.Domain\\HMS.Domain.csproj|solutionrelative:hms.domain\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeMapper.cs",
+              "DocumentMoniker": "C:\\Users\\myadr\\OneDrive\\Desktop\\Nova pasta\\HMS-API\\HMS.Application\\Mapper\\EmployeeMapper.cs",
+              "RelativeDocumentMoniker": "HMS.Application\\Mapper\\EmployeeMapper.cs",
+              "ToolTip": "C:\\Users\\myadr\\OneDrive\\Desktop\\Nova pasta\\HMS-API\\HMS.Application\\Mapper\\EmployeeMapper.cs",
+              "RelativeToolTip": "HMS.Application\\Mapper\\EmployeeMapper.cs",
+              "ViewState": "AQIAAF4AAAAAAAAAAAD4v2AAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T19:04:54.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\myadr\\OneDrive\\Desktop\\Nova pasta\\HMS-API\\HMS.Infrastructure\\Repositories\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "HMS.Infrastructure\\Repositories\\EmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\myadr\\OneDrive\\Desktop\\Nova pasta\\HMS-API\\HMS.Infrastructure\\Repositories\\EmployeeRepository.cs",
+              "RelativeToolTip": "HMS.Infrastructure\\Repositories\\EmployeeRepository.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwCYAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T18:43:17.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\myadr\\OneDrive\\Desktop\\Nova pasta\\HMS-API\\HMS.Domain\\Services\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "HMS.Domain\\Services\\EmployeeService.cs",
+              "ToolTip": "C:\\Users\\myadr\\OneDrive\\Desktop\\Nova pasta\\HMS-API\\HMS.Domain\\Services\\EmployeeService.cs",
+              "RelativeToolTip": "HMS.Domain\\Services\\EmployeeService.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAIwDQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T18:41:26.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeApplication.cs",
+              "DocumentMoniker": "C:\\Users\\myadr\\OneDrive\\Desktop\\Nova pasta\\HMS-API\\HMS.Application\\Applications\\EmployeeApplication.cs",
+              "RelativeDocumentMoniker": "HMS.Application\\Applications\\EmployeeApplication.cs",
+              "ToolTip": "C:\\Users\\myadr\\OneDrive\\Desktop\\Nova pasta\\HMS-API\\HMS.Application\\Applications\\EmployeeApplication.cs",
+              "RelativeToolTip": "HMS.Application\\Applications\\EmployeeApplication.cs",
+              "ViewState": "AQIAAHkAAAAAAAAAAAAuwIMAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T18:40:50.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\myadr\\OneDrive\\Desktop\\Nova pasta\\HMS-API\\HMS-API\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "HMS-API\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\myadr\\OneDrive\\Desktop\\Nova pasta\\HMS-API\\HMS-API\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "HMS-API\\Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAA9wDIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T18:40:03.269Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

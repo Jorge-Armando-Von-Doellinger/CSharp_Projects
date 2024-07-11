@@ -1,0 +1,17 @@
+C:\Users\myadr\OneDrive\Desktop\Nova pasta\HMS-API\HMS.Infrastructure\bin\Debug\net8.0\HMS.Infrastructure.deps.json
+C:\Users\myadr\OneDrive\Desktop\Nova pasta\HMS-API\HMS.Infrastructure\bin\Debug\net8.0\HMS.Infrastructure.runtimeconfig.json
+C:\Users\myadr\OneDrive\Desktop\Nova pasta\HMS-API\HMS.Infrastructure\bin\Debug\net8.0\HMS.Infrastructure.dll
+C:\Users\myadr\OneDrive\Desktop\Nova pasta\HMS-API\HMS.Infrastructure\bin\Debug\net8.0\HMS.Infrastructure.pdb
+C:\Users\myadr\OneDrive\Desktop\Nova pasta\HMS-API\HMS.Infrastructure\bin\Debug\net8.0\HMS.Domain.dll
+C:\Users\myadr\OneDrive\Desktop\Nova pasta\HMS-API\HMS.Infrastructure\bin\Debug\net8.0\HMS.Domain.pdb
+C:\Users\myadr\OneDrive\Desktop\Nova pasta\HMS-API\HMS.Infrastructure\obj\Debug\net8.0\HMS.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\myadr\OneDrive\Desktop\Nova pasta\HMS-API\HMS.Infrastructure\obj\Debug\net8.0\HMS.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\myadr\OneDrive\Desktop\Nova pasta\HMS-API\HMS.Infrastructure\obj\Debug\net8.0\HMS.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\myadr\OneDrive\Desktop\Nova pasta\HMS-API\HMS.Infrastructure\obj\Debug\net8.0\HMS.Infrastructure.AssemblyInfo.cs
+C:\Users\myadr\OneDrive\Desktop\Nova pasta\HMS-API\HMS.Infrastructure\obj\Debug\net8.0\HMS.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\myadr\OneDrive\Desktop\Nova pasta\HMS-API\HMS.Infrastructure\obj\Debug\net8.0\HMS.Infr.D1046C3A.Up2Date
+C:\Users\myadr\OneDrive\Desktop\Nova pasta\HMS-API\HMS.Infrastructure\obj\Debug\net8.0\HMS.Infrastructure.dll
+C:\Users\myadr\OneDrive\Desktop\Nova pasta\HMS-API\HMS.Infrastructure\obj\Debug\net8.0\refint\HMS.Infrastructure.dll
+C:\Users\myadr\OneDrive\Desktop\Nova pasta\HMS-API\HMS.Infrastructure\obj\Debug\net8.0\HMS.Infrastructure.pdb
+C:\Users\myadr\OneDrive\Desktop\Nova pasta\HMS-API\HMS.Infrastructure\obj\Debug\net8.0\HMS.Infrastructure.genruntimeconfig.cache
+C:\Users\myadr\OneDrive\Desktop\Nova pasta\HMS-API\HMS.Infrastructure\obj\Debug\net8.0\ref\HMS.Infrastructure.dll

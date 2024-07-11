@@ -3,44 +3,59 @@
   "WorkspaceRootPath": "C:\\Users\\myadr\\OneDrive\\Documentos\\GitHub\\CSharp_Projects\\CSharp_Projects\\Gest\u00E3o_Estoque\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DA97A231-3599-492D-92EA-B1A3FD92D3EB}|Gest\u00E3o_Estoque.csproj|C:\\Users\\myadr\\OneDrive\\Documentos\\GitHub\\CSharp_Projects\\CSharp_Projects\\Gest\u00E3o_Estoque\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DA97A231-3599-492D-92EA-B1A3FD92D3EB}|Gest\u00E3o_Estoque.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DA97A231-3599-492D-92EA-B1A3FD92D3EB}|Gest\u00E3o_Estoque.csproj|c:\\users\\myadr\\onedrive\\documentos\\github\\csharp_projects\\csharp_projects\\gest\u00E3o_estoque\\class_calculate_columns_db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DA97A231-3599-492D-92EA-B1A3FD92D3EB}|Gest\u00E3o_Estoque.csproj|solutionrelative:class_calculate_columns_db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{DA97A231-3599-492D-92EA-B1A3FD92D3EB}|Gest\u00E3o_Estoque.csproj|C:\\Users\\myadr\\OneDrive\\Documentos\\GitHub\\CSharp_Projects\\CSharp_Projects\\Gest\u00E3o_Estoque\\form_addlote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DA97A231-3599-492D-92EA-B1A3FD92D3EB}|Gest\u00E3o_Estoque.csproj|solutionrelative:form_addlote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DA97A231-3599-492D-92EA-B1A3FD92D3EB}|Gest\u00E3o_Estoque.csproj|C:\\Users\\myadr\\OneDrive\\Documentos\\GitHub\\CSharp_Projects\\CSharp_Projects\\Gest\u00E3o_Estoque\\form_gest\u00E3o_produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{DA97A231-3599-492D-92EA-B1A3FD92D3EB}|Gest\u00E3o_Estoque.csproj|solutionrelative:form_gest\u00E3o_produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DA97A231-3599-492D-92EA-B1A3FD92D3EB}|Gest\u00E3o_Estoque.csproj|C:\\Users\\myadr\\OneDrive\\Documentos\\GitHub\\CSharp_Projects\\CSharp_Projects\\Gest\u00E3o_Estoque\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{DA97A231-3599-492D-92EA-B1A3FD92D3EB}|Gest\u00E3o_Estoque.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DA97A231-3599-492D-92EA-B1A3FD92D3EB}|Gest\u00E3o_Estoque.csproj|C:\\Users\\myadr\\OneDrive\\Documentos\\GitHub\\CSharp_Projects\\CSharp_Projects\\Gest\u00E3o_Estoque\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
-      "RelativeMoniker": "D:0:0:{DA97A231-3599-492D-92EA-B1A3FD92D3EB}|Gest\u00E3o_Estoque.csproj|solutionrelative:properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DA97A231-3599-492D-92EA-B1A3FD92D3EB}|Gest\u00E3o_Estoque.csproj|C:\\Users\\myadr\\OneDrive\\Documentos\\GitHub\\CSharp_Projects\\CSharp_Projects\\Gest\u00E3o_Estoque\\form_selectproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{DA97A231-3599-492D-92EA-B1A3FD92D3EB}|Gest\u00E3o_Estoque.csproj|solutionrelative:form_selectproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DA97A231-3599-492D-92EA-B1A3FD92D3EB}|Gest\u00E3o_Estoque.csproj|C:\\Users\\myadr\\OneDrive\\Documentos\\GitHub\\CSharp_Projects\\CSharp_Projects\\Gest\u00E3o_Estoque\\form_addlote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{DA97A231-3599-492D-92EA-B1A3FD92D3EB}|Gest\u00E3o_Estoque.csproj|solutionrelative:form_addlote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DA97A231-3599-492D-92EA-B1A3FD92D3EB}|Gest\u00E3o_Estoque.csproj|C:\\Users\\myadr\\OneDrive\\Documentos\\GitHub\\CSharp_Projects\\CSharp_Projects\\Gest\u00E3o_Estoque\\form_gest\u00E3o_produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DA97A231-3599-492D-92EA-B1A3FD92D3EB}|Gest\u00E3o_Estoque.csproj|solutionrelative:form_gest\u00E3o_produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DA97A231-3599-492D-92EA-B1A3FD92D3EB}|Gest\u00E3o_Estoque.csproj|C:\\Users\\myadr\\OneDrive\\Documentos\\GitHub\\CSharp_Projects\\CSharp_Projects\\Gest\u00E3o_Estoque\\form_sales_division.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA97A231-3599-492D-92EA-B1A3FD92D3EB}|Gest\u00E3o_Estoque.csproj|solutionrelative:form_sales_division.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA97A231-3599-492D-92EA-B1A3FD92D3EB}|Gest\u00E3o_Estoque.csproj|c:\\users\\myadr\\onedrive\\documentos\\github\\csharp_projects\\csharp_projects\\gest\u00E3o_estoque\\class_calculate_columns_db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA97A231-3599-492D-92EA-B1A3FD92D3EB}|Gest\u00E3o_Estoque.csproj|solutionrelative:class_calculate_columns_db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DA97A231-3599-492D-92EA-B1A3FD92D3EB}|Gest\u00E3o_Estoque.csproj|C:\\Users\\myadr\\OneDrive\\Documentos\\GitHub\\CSharp_Projects\\CSharp_Projects\\Gest\u00E3o_Estoque\\sqlite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DA97A231-3599-492D-92EA-B1A3FD92D3EB}|Gest\u00E3o_Estoque.csproj|solutionrelative:sqlite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA97A231-3599-492D-92EA-B1A3FD92D3EB}|Gest\u00E3o_Estoque.csproj|C:\\Users\\myadr\\OneDrive\\Documentos\\GitHub\\CSharp_Projects\\CSharp_Projects\\Gest\u00E3o_Estoque\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{DA97A231-3599-492D-92EA-B1A3FD92D3EB}|Gest\u00E3o_Estoque.csproj|solutionrelative:properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Gest\u00E3o_Estoque||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA97A231-3599-492D-92EA-B1A3FD92D3EB}|Gest\u00E3o_Estoque.csproj|C:\\Users\\myadr\\OneDrive\\Documentos\\GitHub\\CSharp_Projects\\CSharp_Projects\\Gest\u00E3o_Estoque\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA97A231-3599-492D-92EA-B1A3FD92D3EB}|Gest\u00E3o_Estoque.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA97A231-3599-492D-92EA-B1A3FD92D3EB}|Gest\u00E3o_Estoque.csproj|C:\\Users\\myadr\\OneDrive\\Documentos\\GitHub\\CSharp_Projects\\CSharp_Projects\\Gest\u00E3o_Estoque\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DA97A231-3599-492D-92EA-B1A3FD92D3EB}|Gest\u00E3o_Estoque.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA97A231-3599-492D-92EA-B1A3FD92D3EB}|Gest\u00E3o_Estoque.csproj|C:\\Users\\myadr\\OneDrive\\Documentos\\GitHub\\CSharp_Projects\\CSharp_Projects\\Gest\u00E3o_Estoque\\usercontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DA97A231-3599-492D-92EA-B1A3FD92D3EB}|Gest\u00E3o_Estoque.csproj|solutionrelative:usercontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA97A231-3599-492D-92EA-B1A3FD92D3EB}|Gest\u00E3o_Estoque.csproj|C:\\Users\\myadr\\OneDrive\\Documentos\\GitHub\\CSharp_Projects\\CSharp_Projects\\Gest\u00E3o_Estoque\\form_sales_division.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DA97A231-3599-492D-92EA-B1A3FD92D3EB}|Gest\u00E3o_Estoque.csproj|solutionrelative:form_sales_division.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA97A231-3599-492D-92EA-B1A3FD92D3EB}|Gest\u00E3o_Estoque.csproj|C:\\Users\\myadr\\OneDrive\\Documentos\\GitHub\\CSharp_Projects\\CSharp_Projects\\Gest\u00E3o_Estoque\\form_selectproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DA97A231-3599-492D-92EA-B1A3FD92D3EB}|Gest\u00E3o_Estoque.csproj|solutionrelative:form_selectproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA97A231-3599-492D-92EA-B1A3FD92D3EB}|Gest\u00E3o_Estoque.csproj|C:\\Users\\myadr\\OneDrive\\Documentos\\GitHub\\CSharp_Projects\\CSharp_Projects\\Gest\u00E3o_Estoque\\form_gest\u00E3o_produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DA97A231-3599-492D-92EA-B1A3FD92D3EB}|Gest\u00E3o_Estoque.csproj|solutionrelative:form_gest\u00E3o_produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA97A231-3599-492D-92EA-B1A3FD92D3EB}|Gest\u00E3o_Estoque.csproj|C:\\Users\\myadr\\OneDrive\\Documentos\\GitHub\\CSharp_Projects\\CSharp_Projects\\Gest\u00E3o_Estoque\\form_gest\u00E3o_produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA97A231-3599-492D-92EA-B1A3FD92D3EB}|Gest\u00E3o_Estoque.csproj|solutionrelative:form_gest\u00E3o_produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,7 +65,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -58,82 +73,126 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserControl1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\myadr\\OneDrive\\Documentos\\GitHub\\CSharp_Projects\\CSharp_Projects\\Gest\u00E3o_Estoque\\UserControl1.cs",
+              "RelativeDocumentMoniker": "UserControl1.cs",
+              "ToolTip": "C:\\Users\\myadr\\OneDrive\\Documentos\\GitHub\\CSharp_Projects\\CSharp_Projects\\Gest\u00E3o_Estoque\\UserControl1.cs [Design]",
+              "RelativeToolTip": "UserControl1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T23:28:48.059Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Class_Calculate_Columns_DB.cs",
-              "DocumentMoniker": "C:\\Users\\myadr\\OneDrive\\Documentos\\GitHub\\CSharp_Projects\\CSharp_Projects\\Gest\u00E3o_Estoque\\Class_Calculate_Columns_DB.cs",
-              "RelativeDocumentMoniker": "Class_Calculate_Columns_DB.cs",
-              "ToolTip": "C:\\Users\\myadr\\OneDrive\\Documentos\\GitHub\\CSharp_Projects\\CSharp_Projects\\Gest\u00E3o_Estoque\\Class_Calculate_Columns_DB.cs",
-              "RelativeToolTip": "Class_Calculate_Columns_DB.cs",
-              "ViewState": "AQIAAC4AAAAAAAAAAAAgwD8BAABUAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-30T22:09:45.08Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\myadr\\OneDrive\\Documentos\\GitHub\\CSharp_Projects\\CSharp_Projects\\Gest\u00E3o_Estoque\\Form1.cs",
-              "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\myadr\\OneDrive\\Documentos\\GitHub\\CSharp_Projects\\CSharp_Projects\\Gest\u00E3o_Estoque\\Form1.cs",
-              "RelativeToolTip": "Form1.cs",
-              "ViewState": "AQIAAIoAAAAAAAAAAAAgwI8AAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-30T22:07:12.033Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\myadr\\OneDrive\\Documentos\\GitHub\\CSharp_Projects\\CSharp_Projects\\Gest\u00E3o_Estoque\\Form1.cs",
-              "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\myadr\\OneDrive\\Documentos\\GitHub\\CSharp_Projects\\CSharp_Projects\\Gest\u00E3o_Estoque\\Form1.cs [Design]",
-              "RelativeToolTip": "Form1.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-30T22:07:09.283Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Form_SelectProduct.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\myadr\\OneDrive\\Documentos\\GitHub\\CSharp_Projects\\CSharp_Projects\\Gest\u00E3o_Estoque\\Form_SelectProduct.cs",
-              "RelativeDocumentMoniker": "Form_SelectProduct.cs",
-              "ToolTip": "C:\\Users\\myadr\\OneDrive\\Documentos\\GitHub\\CSharp_Projects\\CSharp_Projects\\Gest\u00E3o_Estoque\\Form_SelectProduct.cs [Design]",
-              "RelativeToolTip": "Form_SelectProduct.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-30T22:05:30.148Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Form_AddLote.cs",
-              "DocumentMoniker": "C:\\Users\\myadr\\OneDrive\\Documentos\\GitHub\\CSharp_Projects\\CSharp_Projects\\Gest\u00E3o_Estoque\\Form_AddLote.cs",
-              "RelativeDocumentMoniker": "Form_AddLote.cs",
-              "ToolTip": "C:\\Users\\myadr\\OneDrive\\Documentos\\GitHub\\CSharp_Projects\\CSharp_Projects\\Gest\u00E3o_Estoque\\Form_AddLote.cs",
-              "RelativeToolTip": "Form_AddLote.cs",
-              "ViewState": "AQIAAHQAAAAAAAAAAAAqwIEAAAA2AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-29T16:32:36.096Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
               "Title": "Form_AddLote.cs [Design]",
               "DocumentMoniker": "C:\\Users\\myadr\\OneDrive\\Documentos\\GitHub\\CSharp_Projects\\CSharp_Projects\\Gest\u00E3o_Estoque\\Form_AddLote.cs",
               "RelativeDocumentMoniker": "Form_AddLote.cs",
               "ToolTip": "C:\\Users\\myadr\\OneDrive\\Documentos\\GitHub\\CSharp_Projects\\CSharp_Projects\\Gest\u00E3o_Estoque\\Form_AddLote.cs [Design]",
               "RelativeToolTip": "Form_AddLote.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-29T16:32:32.752Z",
+              "WhenOpened": "2024-05-31T23:30:12.18Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Class_Calculate_Columns_DB.cs",
+              "DocumentMoniker": "C:\\Users\\myadr\\OneDrive\\Documentos\\GitHub\\CSharp_Projects\\CSharp_Projects\\Gest\u00E3o_Estoque\\Class_Calculate_Columns_DB.cs",
+              "RelativeDocumentMoniker": "Class_Calculate_Columns_DB.cs",
+              "ToolTip": "C:\\Users\\myadr\\OneDrive\\Documentos\\GitHub\\CSharp_Projects\\CSharp_Projects\\Gest\u00E3o_Estoque\\Class_Calculate_Columns_DB.cs",
+              "RelativeToolTip": "Class_Calculate_Columns_DB.cs",
+              "ViewState": "AQIAAEQBAAAAAAAAAAAwwB8CAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T22:09:45.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form_Sales_Division.cs",
+              "DocumentMoniker": "C:\\Users\\myadr\\OneDrive\\Documentos\\GitHub\\CSharp_Projects\\CSharp_Projects\\Gest\u00E3o_Estoque\\Form_Sales_Division.cs",
+              "RelativeDocumentMoniker": "Form_Sales_Division.cs",
+              "ToolTip": "C:\\Users\\myadr\\OneDrive\\Documentos\\GitHub\\CSharp_Projects\\CSharp_Projects\\Gest\u00E3o_Estoque\\Form_Sales_Division.cs",
+              "RelativeToolTip": "Form_Sales_Division.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T22:01:38.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form_AddLote.cs",
+              "DocumentMoniker": "C:\\Users\\myadr\\OneDrive\\Documentos\\GitHub\\CSharp_Projects\\CSharp_Projects\\Gest\u00E3o_Estoque\\Form_AddLote.cs",
+              "RelativeDocumentMoniker": "Form_AddLote.cs",
+              "ToolTip": "C:\\Users\\myadr\\OneDrive\\Documentos\\GitHub\\CSharp_Projects\\CSharp_Projects\\Gest\u00E3o_Estoque\\Form_AddLote.cs",
+              "RelativeToolTip": "Form_AddLote.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T16:32:36.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Gest\u00E3o_Estoque",
+              "DocumentMoniker": "C:\\Users\\myadr\\OneDrive\\Documentos\\GitHub\\CSharp_Projects\\CSharp_Projects\\Gest\u00E3o_Estoque\\Gest\u00E3o_Estoque.csproj",
+              "RelativeDocumentMoniker": "Gest\u00E3o_Estoque.csproj",
+              "ToolTip": "C:\\Users\\myadr\\OneDrive\\Documentos\\GitHub\\CSharp_Projects\\CSharp_Projects\\Gest\u00E3o_Estoque\\Gest\u00E3o_Estoque.csproj",
+              "RelativeToolTip": "Gest\u00E3o_Estoque.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-01T19:04:43.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form_Sales_Division.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\myadr\\OneDrive\\Documentos\\GitHub\\CSharp_Projects\\CSharp_Projects\\Gest\u00E3o_Estoque\\Form_Sales_Division.cs",
+              "RelativeDocumentMoniker": "Form_Sales_Division.cs",
+              "ToolTip": "C:\\Users\\myadr\\OneDrive\\Documentos\\GitHub\\CSharp_Projects\\CSharp_Projects\\Gest\u00E3o_Estoque\\Form_Sales_Division.cs [Design]",
+              "RelativeToolTip": "Form_Sales_Division.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T21:59:04.768Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\myadr\\OneDrive\\Documentos\\GitHub\\CSharp_Projects\\CSharp_Projects\\Gest\u00E3o_Estoque\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\myadr\\OneDrive\\Documentos\\GitHub\\CSharp_Projects\\CSharp_Projects\\Gest\u00E3o_Estoque\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAAFMBAAAAAAAAAAAowJIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T22:07:12.033Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 8,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\myadr\\OneDrive\\Documentos\\GitHub\\CSharp_Projects\\CSharp_Projects\\Gest\u00E3o_Estoque\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\myadr\\OneDrive\\Documentos\\GitHub\\CSharp_Projects\\CSharp_Projects\\Gest\u00E3o_Estoque\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T22:07:09.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form_SelectProduct.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\myadr\\OneDrive\\Documentos\\GitHub\\CSharp_Projects\\CSharp_Projects\\Gest\u00E3o_Estoque\\Form_SelectProduct.cs",
+              "RelativeDocumentMoniker": "Form_SelectProduct.cs",
+              "ToolTip": "C:\\Users\\myadr\\OneDrive\\Documentos\\GitHub\\CSharp_Projects\\CSharp_Projects\\Gest\u00E3o_Estoque\\Form_SelectProduct.cs [Design]",
+              "RelativeToolTip": "Form_SelectProduct.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T22:05:30.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "Form_Gest\u00E3o_Produto.cs",
               "DocumentMoniker": "C:\\Users\\myadr\\OneDrive\\Documentos\\GitHub\\CSharp_Projects\\CSharp_Projects\\Gest\u00E3o_Estoque\\Form_Gest\u00E3o_Produto.cs",
               "RelativeDocumentMoniker": "Form_Gest\u00E3o_Produto.cs",
@@ -141,20 +200,18 @@
               "RelativeToolTip": "Form_Gest\u00E3o_Produto.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAEkAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-29T15:24:47.653Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-29T15:24:47.653Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 12,
               "Title": "Form_Gest\u00E3o_Produto.cs [Design]",
               "DocumentMoniker": "C:\\Users\\myadr\\OneDrive\\Documentos\\GitHub\\CSharp_Projects\\CSharp_Projects\\Gest\u00E3o_Estoque\\Form_Gest\u00E3o_Produto.cs",
               "RelativeDocumentMoniker": "Form_Gest\u00E3o_Produto.cs",
               "ToolTip": "C:\\Users\\myadr\\OneDrive\\Documentos\\GitHub\\CSharp_Projects\\CSharp_Projects\\Gest\u00E3o_Estoque\\Form_Gest\u00E3o_Produto.cs [Design]",
               "RelativeToolTip": "Form_Gest\u00E3o_Produto.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-29T15:22:50.482Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-05-29T15:22:50.482Z"
             },
             {
               "$type": "Document",
@@ -170,13 +227,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 4,
               "Title": "SQLite.cs",
               "DocumentMoniker": "C:\\Users\\myadr\\OneDrive\\Documentos\\GitHub\\CSharp_Projects\\CSharp_Projects\\Gest\u00E3o_Estoque\\SQLite.cs",
               "RelativeDocumentMoniker": "SQLite.cs",
               "ToolTip": "C:\\Users\\myadr\\OneDrive\\Documentos\\GitHub\\CSharp_Projects\\CSharp_Projects\\Gest\u00E3o_Estoque\\SQLite.cs",
               "RelativeToolTip": "SQLite.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAXAAAA",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAqwFoAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-26T22:45:23.927Z"
             }

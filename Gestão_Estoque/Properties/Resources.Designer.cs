@@ -83,6 +83,36 @@ namespace Gestão_Estoque.Properties {
         /// <summary>
         ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
         /// </summary>
+        public static System.Drawing.Bitmap icon_list {
+            get {
+                object obj = ResourceManager.GetObject("icon_list", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap icon_list2 {
+            get {
+                object obj = ResourceManager.GetObject("icon_list2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap icon_list3 {
+            get {
+                object obj = ResourceManager.GetObject("icon_list3", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
         public static System.Drawing.Bitmap Icon_Management {
             get {
                 object obj = ResourceManager.GetObject("Icon_Management", resourceCulture);
@@ -96,6 +126,36 @@ namespace Gestão_Estoque.Properties {
         public static System.Drawing.Bitmap Icon_Management2 {
             get {
                 object obj = ResourceManager.GetObject("Icon_Management2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap icon_sales {
+            get {
+                object obj = ResourceManager.GetObject("icon_sales", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap icon_sales1 {
+            get {
+                object obj = ResourceManager.GetObject("icon_sales1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap icons8_performance_de_vendas_80 {
+            get {
+                object obj = ResourceManager.GetObject("icons8-performance-de-vendas-80", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

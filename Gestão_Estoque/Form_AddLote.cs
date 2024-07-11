@@ -187,5 +187,10 @@ namespace Gestão_Estoque
                 }
             }
         }
+
+        private void metroComboBox_lot_category_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }

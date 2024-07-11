@@ -1,0 +1,11 @@
+C:\Users\myadr\OneDrive\Desktop\Nova pasta\HMS.Fron\HMS.CommunicationAPI\bin\Debug\net8.0\HMS.CommunicationAPI.deps.json
+C:\Users\myadr\OneDrive\Desktop\Nova pasta\HMS.Fron\HMS.CommunicationAPI\bin\Debug\net8.0\HMS.CommunicationAPI.dll
+C:\Users\myadr\OneDrive\Desktop\Nova pasta\HMS.Fron\HMS.CommunicationAPI\bin\Debug\net8.0\HMS.CommunicationAPI.pdb
+C:\Users\myadr\OneDrive\Desktop\Nova pasta\HMS.Fron\HMS.CommunicationAPI\obj\Debug\net8.0\HMS.CommunicationAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\myadr\OneDrive\Desktop\Nova pasta\HMS.Fron\HMS.CommunicationAPI\obj\Debug\net8.0\HMS.CommunicationAPI.AssemblyInfoInputs.cache
+C:\Users\myadr\OneDrive\Desktop\Nova pasta\HMS.Fron\HMS.CommunicationAPI\obj\Debug\net8.0\HMS.CommunicationAPI.AssemblyInfo.cs
+C:\Users\myadr\OneDrive\Desktop\Nova pasta\HMS.Fron\HMS.CommunicationAPI\obj\Debug\net8.0\HMS.CommunicationAPI.csproj.CoreCompileInputs.cache
+C:\Users\myadr\OneDrive\Desktop\Nova pasta\HMS.Fron\HMS.CommunicationAPI\obj\Debug\net8.0\HMS.CommunicationAPI.dll
+C:\Users\myadr\OneDrive\Desktop\Nova pasta\HMS.Fron\HMS.CommunicationAPI\obj\Debug\net8.0\refint\HMS.CommunicationAPI.dll
+C:\Users\myadr\OneDrive\Desktop\Nova pasta\HMS.Fron\HMS.CommunicationAPI\obj\Debug\net8.0\HMS.CommunicationAPI.pdb
+C:\Users\myadr\OneDrive\Desktop\Nova pasta\HMS.Fron\HMS.CommunicationAPI\obj\Debug\net8.0\ref\HMS.CommunicationAPI.dll

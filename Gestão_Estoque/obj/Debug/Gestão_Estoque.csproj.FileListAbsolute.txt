@@ -38,3 +38,5 @@ C:\Users\myadr\OneDrive\Documentos\GitHub\CSharp_Projects\CSharp_Projects\Gestã
 C:\Users\myadr\OneDrive\Documentos\GitHub\CSharp_Projects\CSharp_Projects\Gestão_Estoque\obj\Debug\Gestão_Estoque.Form_Gestão_Produto.resources
 C:\Users\myadr\OneDrive\Documentos\GitHub\CSharp_Projects\CSharp_Projects\Gestão_Estoque\obj\Debug\Gestão_Estoque.Form_SelectProduct.resources
 C:\Users\myadr\OneDrive\Documentos\GitHub\CSharp_Projects\CSharp_Projects\Gestão_Estoque\obj\Debug\Gestão_Estoque.Form_AddLote.resources
+C:\Users\myadr\OneDrive\Documentos\GitHub\CSharp_Projects\CSharp_Projects\Gestão_Estoque\obj\Debug\Gestão_Estoque.Form_Sales_Division.resources
+C:\Users\myadr\OneDrive\Documentos\GitHub\CSharp_Projects\CSharp_Projects\Gestão_Estoque\obj\Debug\Gestão_Estoque.UserControl1.resources

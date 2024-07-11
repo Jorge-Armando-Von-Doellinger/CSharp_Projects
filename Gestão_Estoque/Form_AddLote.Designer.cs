@@ -48,6 +48,11 @@
             this.metroButton_clear = new MetroFramework.Controls.MetroButton();
             this.metroButton_close = new MetroFramework.Controls.MetroButton();
             this.metroCheckBox_save_configs = new MetroFramework.Controls.MetroCheckBox();
+            this.metroButton1 = new MetroFramework.Controls.MetroButton();
+            this.metroButton2 = new MetroFramework.Controls.MetroButton();
+            this.metroButton3 = new MetroFramework.Controls.MetroButton();
+            this.metroButton4 = new MetroFramework.Controls.MetroButton();
+            this.metroButton5 = new MetroFramework.Controls.MetroButton();
             this.SuspendLayout();
             // 
             // metroButton_lot_add_
@@ -63,7 +68,7 @@
             // metroCheckBox_insert_by_checkbox
             // 
             this.metroCheckBox_insert_by_checkbox.AutoSize = true;
-            this.metroCheckBox_insert_by_checkbox.Location = new System.Drawing.Point(315, 251);
+            this.metroCheckBox_insert_by_checkbox.Location = new System.Drawing.Point(315, 254);
             this.metroCheckBox_insert_by_checkbox.Name = "metroCheckBox_insert_by_checkbox";
             this.metroCheckBox_insert_by_checkbox.Size = new System.Drawing.Size(153, 15);
             this.metroCheckBox_insert_by_checkbox.TabIndex = 1;
@@ -110,7 +115,7 @@
             // 
             // 
             this.metroTextBox_lote_quantity.CustomButton.Image = null;
-            this.metroTextBox_lote_quantity.CustomButton.Location = new System.Drawing.Point(135, 1);
+            this.metroTextBox_lote_quantity.CustomButton.Location = new System.Drawing.Point(138, 1);
             this.metroTextBox_lote_quantity.CustomButton.Name = "";
             this.metroTextBox_lote_quantity.CustomButton.Size = new System.Drawing.Size(21, 21);
             this.metroTextBox_lote_quantity.CustomButton.Style = MetroFramework.MetroColorStyle.Blue;
@@ -119,7 +124,7 @@
             this.metroTextBox_lote_quantity.CustomButton.UseSelectable = true;
             this.metroTextBox_lote_quantity.CustomButton.Visible = false;
             this.metroTextBox_lote_quantity.Lines = new string[0];
-            this.metroTextBox_lote_quantity.Location = new System.Drawing.Point(60, 215);
+            this.metroTextBox_lote_quantity.Location = new System.Drawing.Point(57, 240);
             this.metroTextBox_lote_quantity.MaxLength = 32767;
             this.metroTextBox_lote_quantity.Name = "metroTextBox_lote_quantity";
             this.metroTextBox_lote_quantity.PasswordChar = '\0';
@@ -130,7 +135,7 @@
             this.metroTextBox_lote_quantity.SelectionStart = 0;
             this.metroTextBox_lote_quantity.ShortcutsEnabled = true;
             this.metroTextBox_lote_quantity.ShowClearButton = true;
-            this.metroTextBox_lote_quantity.Size = new System.Drawing.Size(157, 23);
+            this.metroTextBox_lote_quantity.Size = new System.Drawing.Size(160, 23);
             this.metroTextBox_lote_quantity.TabIndex = 3;
             this.metroTextBox_lote_quantity.UseSelectable = true;
             this.metroTextBox_lote_quantity.WaterMark = "Ex: 100";
@@ -152,7 +157,7 @@
             this.metroTextBox_lote_price.CustomButton.UseSelectable = true;
             this.metroTextBox_lote_price.CustomButton.Visible = false;
             this.metroTextBox_lote_price.Lines = new string[0];
-            this.metroTextBox_lote_price.Location = new System.Drawing.Point(59, 158);
+            this.metroTextBox_lote_price.Location = new System.Drawing.Point(58, 173);
             this.metroTextBox_lote_price.MaxLength = 32767;
             this.metroTextBox_lote_price.Name = "metroTextBox_lote_price";
             this.metroTextBox_lote_price.PasswordChar = '\0';
@@ -180,6 +185,7 @@
             this.metroComboBox_lot_category.Size = new System.Drawing.Size(121, 29);
             this.metroComboBox_lot_category.TabIndex = 6;
             this.metroComboBox_lot_category.UseSelectable = true;
+            this.metroComboBox_lot_category.SelectedIndexChanged += new System.EventHandler(this.metroComboBox_lot_category_SelectedIndexChanged);
             // 
             // metroDateTime_lot_date_expiration
             // 
@@ -192,7 +198,7 @@
             // metroLabel1
             // 
             this.metroLabel1.AutoSize = true;
-            this.metroLabel1.Location = new System.Drawing.Point(59, 76);
+            this.metroLabel1.Location = new System.Drawing.Point(59, 79);
             this.metroLabel1.Name = "metroLabel1";
             this.metroLabel1.Size = new System.Drawing.Size(95, 19);
             this.metroLabel1.TabIndex = 9;
@@ -201,7 +207,7 @@
             // metroLabel2
             // 
             this.metroLabel2.AutoSize = true;
-            this.metroLabel2.Location = new System.Drawing.Point(59, 253);
+            this.metroLabel2.Location = new System.Drawing.Point(57, 289);
             this.metroLabel2.Name = "metroLabel2";
             this.metroLabel2.Size = new System.Drawing.Size(142, 19);
             this.metroLabel2.TabIndex = 10;
@@ -210,7 +216,7 @@
             // metroLabel3
             // 
             this.metroLabel3.AutoSize = true;
-            this.metroLabel3.Location = new System.Drawing.Point(60, 193);
+            this.metroLabel3.Location = new System.Drawing.Point(46, 220);
             this.metroLabel3.Name = "metroLabel3";
             this.metroLabel3.Size = new System.Drawing.Size(157, 19);
             this.metroLabel3.TabIndex = 11;
@@ -219,7 +225,7 @@
             // metroLabel4
             // 
             this.metroLabel4.AutoSize = true;
-            this.metroLabel4.Location = new System.Drawing.Point(59, 136);
+            this.metroLabel4.Location = new System.Drawing.Point(58, 151);
             this.metroLabel4.Name = "metroLabel4";
             this.metroLabel4.Size = new System.Drawing.Size(87, 19);
             this.metroLabel4.TabIndex = 12;
@@ -240,7 +246,7 @@
             this.metroTextBox_lot_profit_percentage.CustomButton.UseSelectable = true;
             this.metroTextBox_lot_profit_percentage.CustomButton.Visible = false;
             this.metroTextBox_lot_profit_percentage.Lines = new string[0];
-            this.metroTextBox_lot_profit_percentage.Location = new System.Drawing.Point(59, 275);
+            this.metroTextBox_lot_profit_percentage.Location = new System.Drawing.Point(59, 308);
             this.metroTextBox_lot_profit_percentage.MaxLength = 32767;
             this.metroTextBox_lot_profit_percentage.Name = "metroTextBox_lot_profit_percentage";
             this.metroTextBox_lot_profit_percentage.PasswordChar = '\0';
@@ -261,7 +267,7 @@
             // metroLabel5
             // 
             this.metroLabel5.AutoSize = true;
-            this.metroLabel5.Location = new System.Drawing.Point(315, 76);
+            this.metroLabel5.Location = new System.Drawing.Point(315, 79);
             this.metroLabel5.Name = "metroLabel5";
             this.metroLabel5.Size = new System.Drawing.Size(70, 19);
             this.metroLabel5.TabIndex = 14;
@@ -349,18 +355,83 @@
             // metroCheckBox_save_configs
             // 
             this.metroCheckBox_save_configs.AutoSize = true;
-            this.metroCheckBox_save_configs.Location = new System.Drawing.Point(315, 304);
+            this.metroCheckBox_save_configs.Location = new System.Drawing.Point(315, 316);
             this.metroCheckBox_save_configs.Name = "metroCheckBox_save_configs";
             this.metroCheckBox_save_configs.Size = new System.Drawing.Size(169, 15);
             this.metroCheckBox_save_configs.TabIndex = 21;
             this.metroCheckBox_save_configs.Text = "Salvar configuração de data";
             this.metroCheckBox_save_configs.UseSelectable = true;
             // 
+            // metroButton1
+            // 
+            this.metroButton1.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
+            this.metroButton1.BackgroundImage = global::Gestão_Estoque.Properties.Resources.icon_list3;
+            this.metroButton1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.metroButton1.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.metroButton1.Location = new System.Drawing.Point(223, 101);
+            this.metroButton1.Name = "metroButton1";
+            this.metroButton1.Size = new System.Drawing.Size(25, 23);
+            this.metroButton1.TabIndex = 22;
+            this.metroButton1.UseSelectable = true;
+            // 
+            // metroButton2
+            // 
+            this.metroButton2.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
+            this.metroButton2.BackgroundImage = global::Gestão_Estoque.Properties.Resources.icon_list3;
+            this.metroButton2.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.metroButton2.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.metroButton2.Location = new System.Drawing.Point(222, 173);
+            this.metroButton2.Name = "metroButton2";
+            this.metroButton2.Size = new System.Drawing.Size(25, 23);
+            this.metroButton2.TabIndex = 23;
+            this.metroButton2.UseSelectable = true;
+            // 
+            // metroButton3
+            // 
+            this.metroButton3.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
+            this.metroButton3.BackgroundImage = global::Gestão_Estoque.Properties.Resources.icon_list3;
+            this.metroButton3.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.metroButton3.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.metroButton3.Location = new System.Drawing.Point(222, 240);
+            this.metroButton3.Name = "metroButton3";
+            this.metroButton3.Size = new System.Drawing.Size(25, 23);
+            this.metroButton3.TabIndex = 24;
+            this.metroButton3.UseSelectable = true;
+            // 
+            // metroButton4
+            // 
+            this.metroButton4.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
+            this.metroButton4.BackgroundImage = global::Gestão_Estoque.Properties.Resources.icon_list3;
+            this.metroButton4.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.metroButton4.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.metroButton4.Location = new System.Drawing.Point(222, 308);
+            this.metroButton4.Name = "metroButton4";
+            this.metroButton4.Size = new System.Drawing.Size(25, 23);
+            this.metroButton4.TabIndex = 25;
+            this.metroButton4.UseSelectable = true;
+            // 
+            // metroButton5
+            // 
+            this.metroButton5.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
+            this.metroButton5.BackgroundImage = global::Gestão_Estoque.Properties.Resources.icon_list3;
+            this.metroButton5.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.metroButton5.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.metroButton5.Location = new System.Drawing.Point(521, 275);
+            this.metroButton5.Name = "metroButton5";
+            this.metroButton5.Size = new System.Drawing.Size(25, 23);
+            this.metroButton5.TabIndex = 26;
+            this.metroButton5.UseSelectable = true;
+            // 
             // Form_AddLote
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(726, 450);
+            this.Controls.Add(this.metroButton5);
+            this.Controls.Add(this.metroButton4);
+            this.Controls.Add(this.metroButton3);
+            this.Controls.Add(this.metroButton2);
+            this.Controls.Add(this.metroButton1);
             this.Controls.Add(this.metroCheckBox_save_configs);
             this.Controls.Add(this.metroButton_close);
             this.Controls.Add(this.metroButton_clear);
@@ -410,5 +481,10 @@
         private MetroFramework.Controls.MetroButton metroButton_clear;
         private MetroFramework.Controls.MetroButton metroButton_close;
         private MetroFramework.Controls.MetroCheckBox metroCheckBox_save_configs;
+        private MetroFramework.Controls.MetroButton metroButton1;
+        private MetroFramework.Controls.MetroButton metroButton2;
+        private MetroFramework.Controls.MetroButton metroButton3;
+        private MetroFramework.Controls.MetroButton metroButton4;
+        private MetroFramework.Controls.MetroButton metroButton5;
     }
 }

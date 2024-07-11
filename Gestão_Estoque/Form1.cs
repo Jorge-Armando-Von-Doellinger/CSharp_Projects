@@ -22,11 +22,12 @@ namespace Gestão_Estoque
 
         public Form1()
         {
-            UpdateInventory();
             InitializeComponent();
+            DeleteLineInventoryCaseNotHaveProducts();
+            UpdateInventory();
             verifyItemsOnInventoryByLots();
             RefreshDataSource();
-            PopulateComboBox();
+            PopulateComboBox(); 
         }
 
         private void PopulateComboBox()
@@ -57,37 +58,29 @@ namespace Gestão_Estoque
 
         private static void verifyItemsOnInventoryByLots()
         {
-            string query = $@"
-                SELECT 
-                    {Properties.Resources.Inventory_Name_Column} as 'Nome'
-                FROM
-                    {Properties.Resources.Inventory_Table_Name}";
-            using (DataTable dt = SQLite.DataQueryLanguage(query))
+            try
             {
-                query = $@"SELECT {Properties.Resources.Lot_Name_Column} FROM {Properties.Resources.Lot_Table_Name}";
-                using (DataTable dtLots = SQLite.DataQueryLanguage(query))
+                string query = $@"SELECT  
+                                COUNT(DISTINCT {Properties.Resources.Lot_ID_Column}) AS count_tb1,
+                                (SELECT COUNT(*) FROM {Properties.Resources.Inventory_Table_Name}) AS count_tb2
+                            FROM {Properties.Resources.Lot_Table_Name};";
+                using (DataTable countRows = SQLite.DataQueryLanguage(query))
                 {
-                    try
+                    if (countRows.Rows[0].Field<Int64>("count_tb1") >
+                        countRows.Rows[0].Field<Int64>("count_tb2"))
                     {
-                        int rowsDistinc = dtLots.AsEnumerable()
-                                                .GroupBy(row => row.Field<string>("String_Product"))
-                                                .Count();
-                        if (rowsDistinc != dt.AsEnumerable().Count())
-                        {
-                            string[] strings = dt.AsEnumerable()
-                                .Select(row => row.Field<string>("Nome"))
-                                .ToArray();
-                            //Pega os nomes que tem e passa para o SetAllIntoInventory ignora-los
-                            Class_Calculate_Columns_DB.SetAllIntoInventory(strings);
-
-                        }
+                        Class_Calculate_Columns_DB.SetAllIntoInventory();
                     }
-                    catch (Exception err)
+                    else
                     {
-                        MessageBox.Show(err.Message);
-                        throw;
+                        return;
                     }
                 }
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.Message);
+                throw;
             }
         }
 
@@ -138,31 +131,19 @@ namespace Gestão_Estoque
             metroGrid1.ContextMenuStrip = metroContextMenu1;*/
         }
 
-        private static void ExpiredProductsOrNotHaveProducts() // IF not have products
+        private static void DeleteLineInventoryCaseNotHaveProducts() // IF not have products
         {
             string query = $@"
-                        SELECT 
-                            {Properties.Resources.Inventory_Table_Name}
-                        FROM
-                            {Properties.Resources.Inventory_Table_Name}";
-            using (DataTable dataTable = SQLite.DataQueryLanguage(query))
-            {
-                query = $@"SELECT DISTINCT
-                                {Properties.Resources.Lot_Name_Column}
-                            FROM
-                                {Properties.Resources.Lot_Table_Name}";
-                using (DataTable dataTable2 = SQLite.DataQueryLanguage(query))
-                {
-                    if(dataTable.Rows.Count == dataTable2.Rows.Count)
-                    {
-                        return;
-                    }
-                    else if(dataTable2.Rows.Count < dataTable.Rows.Count)//If true, inventory have lines more
-                    {
-
-                    }
-                }
-            }
+                DELETE FROM 
+                    {Properties.Resources.Inventory_Table_Name} 
+                WHERE
+                   {Properties.Resources.Inventory_Name_Column} 
+                NOT IN (
+                    SELECT DISTINCT {Properties.Resources.Lot_Name_Column} 
+                FROM 
+                    {Properties.Resources.Lot_Table_Name}
+                    )";
+            SQLite.DataManipulationLanguage(query);
         }
 
         private bool RowIsNullOrIncompleted() //SERA DELETADA
@@ -400,6 +381,11 @@ namespace Gestão_Estoque
         }
 
         private void metroComboBox1_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void metroButton1_Click_1(object sender, EventArgs e)
         {
 
         }

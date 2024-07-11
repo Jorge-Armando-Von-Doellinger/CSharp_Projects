@@ -42,9 +42,9 @@ namespace Gestão_Estoque
         }
 
     }
-    class Class_Calculate_Columns_DB
+    class Class_Calculate_Columns_DB : IDisposable
     {
-        public Class_Calculate_Columns_DB(string name = "", string status = "", int index = -100) 
+        public Class_Calculate_Columns_DB(string name = "", string status = "", int index = -100)
         {
             /*            SetInventoryQuantity(name, index, status);
                         SetInventoryAmountUN(name, status, index);
@@ -53,10 +53,10 @@ namespace Gestão_Estoque
                         SetTotalProfit(name, status, index);
                         SetTotalSolds(name, status, index);
                         SetDateExpiration(name,status, index);*/
-            if(name == "" && status == "" && index == -100)
+            if (name == "" && status == "" && index == -100)
             {
-                            }
-            
+            }
+
 
         }
 
@@ -95,18 +95,18 @@ namespace Gestão_Estoque
             var dt = SQLite.DataQueryLanguage(query).AsEnumerable();
             decimal AmountUN = 0;
             /*int lines = 0;*/
-            foreach(var row in dt)
+            foreach (var row in dt)
             {
                 AmountUN += (
-                    (decimal) row.Field<decimal>("Decimal_Price_Lote") /
-                    (Int32) row.Field<Int64>("Int_Quantity_Products") *
-                    ((decimal) row.Field<decimal>("Decimal_Total_Profit_Percentage") / 100 + 1));
-                
-                
+                    (decimal)row.Field<decimal>("Decimal_Price_Lote") /
+                    (Int32)row.Field<Int64>("Int_Quantity_Products") *
+                    ((decimal)row.Field<decimal>("Decimal_Total_Profit_Percentage") / 100 + 1));
+
+
             }
             AmountUN /= dt.Count();
-            
-            
+
+
 
             query = @"UPDATE 
                         Inventory_Management1
@@ -160,11 +160,11 @@ namespace Gestão_Estoque
         {
             /*Total arrecadado é a quantidade de vendidos
                     multiplicado pelo valor unitario    */
-                                    
-                                /*
-                                    Vai ser o valor anterior += total arrecadado
-                                            Resetará após acabar/estiver acabando os produtos dos lotes e/ou com a
-                                                vontade do usuario! Botão*/
+
+            /*
+                Vai ser o valor anterior += total arrecadado
+                        Resetará após acabar/estiver acabando os produtos dos lotes e/ou com a
+                            vontade do usuario! Botão*/
 
             /*            string query = $@"SELECT
                                             Lots_Management.Int_Number_Of_Units_Sold,
@@ -187,7 +187,7 @@ namespace Gestão_Estoque
                             WHERE 
                                 String_Product = '{name}'";
             var dt = SQLite.DataQueryLanguage(query);
-/*            int numSolds = 0;*/
+            /*            int numSolds = 0;*/
             decimal AmountUN = 0;
             foreach (var row in dt.AsEnumerable())
             {
@@ -196,7 +196,7 @@ namespace Gestão_Estoque
                     (row.Field<decimal>("Decimal_Total_Profit_Percentage") / 100 + 1)) *
                     (Int32)row.Field<Int64>("Int_Number_Of_Units_Sold");
             }
-            
+
             /*AmountUN /= dt.Rows.Count;*/
             query = @"UPDATE 
                         Inventory_Management1 
@@ -208,7 +208,7 @@ namespace Gestão_Estoque
             keyValuePairs.Add("@ID", index);
             keyValuePairs.Add("@amount", AmountUN);
             SQLite.DataManipulationLanguage(query, keyValuePairs);
-            
+
         }
 
         public void SetTotalProfit(string name, string status, int index = 0) //STRUCT --- AUTOMATICo
@@ -229,7 +229,7 @@ namespace Gestão_Estoque
                                 String_Product = '{name}'";
             DataTable dt = SQLite.DataQueryLanguage(query);
             decimal totalProfit = 0;
-            foreach(var row in dt.AsEnumerable())
+            foreach (var row in dt.AsEnumerable())
             {
                 totalProfit +=
                     row.Field<decimal>("Decimal_Price_Lote") /
@@ -278,7 +278,7 @@ namespace Gestão_Estoque
             keyValuePairs.Add("@unitsSolds", UnitsSolds);
             SQLite.DataManipulationLanguage(query, keyValuePairs);
         }
-        
+
         public void SetDateExpiration(string name, string status, int index = 0) // AUTOMATICO
         {
             string query = $@"SELECT
@@ -289,7 +289,7 @@ namespace Gestão_Estoque
                                 String_Product = '{name}' AND String_Stauts = '{status}'";
             DataTable dt = SQLite.DataQueryLanguage(query);
             List<DateTime> dateTimes = new List<DateTime>();
-            foreach(DataRow row in dt.Rows)
+            foreach (DataRow row in dt.Rows)
             {
                 dateTimes.Add(DateTime.Parse(row.Field<string>("String_Date_Expiration")));
             }
@@ -329,9 +329,9 @@ namespace Gestão_Estoque
             decimal totalProfit = 0;
             /*decimal loteTotalPrice = 0;*/
             List<DateTime> dateTimes = new List<DateTime>();
-            
-            
-            
+
+
+
             foreach (var row in dt)
             {
                 quantity += Convert.ToInt32(row.Field<Int64>("Int_Quantity_Products"));
@@ -370,44 +370,45 @@ namespace Gestão_Estoque
 
                 dateTimes.Add(DateTime.Parse(row.Field<string>("String_Date_Expiration")));
             }
+            //Quantidade de produtos, valor do lote, % lucro, units solds, data de expiração
             ProfitUN = Calculate.CalculateUn(ProfitUN, dt.Count());
             AmountUN = Calculate.CalculateUn(AmountUN, dt.Count());
             /*totalProfit -= loteTotalPrice;*/
             DateTime dateFirst = dateTimes.OrderBy(d => Math.Abs((d - DateTime.Now).TotalDays)).First();
 
-/*            query = $@"UPDATE 
-                        Inventory_Management1
-                    SET
-                        Product_Quantity = @quatity,
-                        Product_Amount_UN = @amountUN,
-                        Product_Profit_UN = @profitUN,
-                        Product_Amount = @amount,
-                        Product_Profit = @profit,
-                        Products_Sold = @solds,
-                        Products_Date_Expiration = @date_expiration
-                    WHERE
-                        Product_ID = @ID AND Product_Name = @name
-                        ";
-                keyValues.Add("@ID", index);
-                //Caso seja edição, ai necessitará de um index
-            
-            keyValues.Add("@name", name);
-            keyValues.Add("@quatity", quantity);
-            keyValues.Add("@amountUN", AmountUN);
-            keyValues.Add("@profitUN", ProfitUN);
-            keyValues.Add("@amount", totalAmountRaised);
-            keyValues.Add("@profit", totalProfit);
-            keyValues.Add("@solds", UnitsSolds);
-            keyValues.Add("@date_expiration", dateFirst.ToShortDateString());*/
+            /*            query = $@"UPDATE 
+                                    Inventory_Management1
+                                SET
+                                    Product_Quantity = @quatity,
+                                    Product_Amount_UN = @amountUN,
+                                    Product_Profit_UN = @profitUN,
+                                    Product_Amount = @amount,
+                                    Product_Profit = @profit,
+                                    Products_Sold = @solds,
+                                    Products_Date_Expiration = @date_expiration
+                                WHERE
+                                    Product_ID = @ID AND Product_Name = @name
+                                    ";
+                            keyValues.Add("@ID", index);
+                            //Caso seja edição, ai necessitará de um index
+
+                        keyValues.Add("@name", name);
+                        keyValues.Add("@quatity", quantity);
+                        keyValues.Add("@amountUN", AmountUN);
+                        keyValues.Add("@profitUN", ProfitUN);
+                        keyValues.Add("@amount", totalAmountRaised);
+                        keyValues.Add("@profit", totalProfit);
+                        keyValues.Add("@solds", UnitsSolds);
+                        keyValues.Add("@date_expiration", dateFirst.ToShortDateString());*/
 
             Dictionary<string, object> list = new Dictionary<string, object>();
-            list.Add("quantity",quantity);
-            list.Add("amountUN",AmountUN);
-            list.Add("profitUN",ProfitUN);
-            list.Add("amount",totalAmountRaised);
-            list.Add("profit",totalProfit);
-            list.Add("units_solds",UnitsSolds);
-            list.Add("date_expiration",dateFirst.ToShortDateString());/* Int_Number_Of_Units_Sold*/
+            list.Add("quantity", quantity);
+            list.Add("amountUN", AmountUN);
+            list.Add("profitUN", ProfitUN);
+            list.Add("amount", totalAmountRaised);
+            list.Add("profit", totalProfit);
+            list.Add("units_solds", UnitsSolds);
+            list.Add("date_expiration", dateFirst.ToShortDateString());/* Int_Number_Of_Units_Sold*/
             return list;
 
         }
@@ -455,9 +456,9 @@ namespace Gestão_Estoque
                 }
             }
         }
-        public async static void SetAllIntoInventory(string[] namesExclude)
+        public static void SetAllIntoInventory() // PEGO OS DIFERENTES E IGNORO OS QUE TENHO NO INVENTARIO E DPS INSIRO
         {
-            string query = $@"SELECT DISTINCT 
+            /*string query = $@"SELECT DISTINCT 
                                 String_Product
                             FROM 
                                 {Properties.Resources.Lot_Table_Name}";
@@ -472,7 +473,8 @@ namespace Gestão_Estoque
                         query += " AND ";
                     }
                 }
-            }
+            } 
+            PEGA OS NOMES QUE NÃO TEM NO INV MAS TEM NO LOTE
             using (DataTable dataTable = SQLite.DataQueryLanguage(query))
             {
                 string query1 = $@"
@@ -489,13 +491,42 @@ namespace Gestão_Estoque
                                     SELECT 1 FROM Inventory_Management1 WHERE Product_Name = @name
                                 );
                             COMMIT;
+                            ";*/
+            string query = $@"SELECT 
+                                {Properties.Resources.Lot_Name_Column} 
+                            FROM 
+                                {Properties.Resources.Lot_Table_Name} 
+                            WHERE
+                                {Properties.Resources.Lot_Name_Column} 
+                            NOT IN (
+                                SELECT
+                                    {Properties.Resources.Inventory_Name_Column} 
+                                FROM 
+                                    {Properties.Resources.Inventory_Table_Name}
+                                    )";
+            using (DataTable dataTable = SQLite.DataQueryLanguage(query))
+            {
+                query = $@"
+                            BEGIN TRANSACTION;
+                                INSERT INTO Inventory_Management1
+                                (
+                                    Product_Name, Product_Quantity, Product_Amount_UN, Product_Profit_UN,
+                                    Product_Amount, Product_Profit, Products_Sold, Products_Date_Expiration
+                                )
+                                SELECT 
+                                    @name, @quantity, @amountUN, @profitUN, @amount, @profit, @solds, @date_expiration
+                                WHERE NOT EXISTS 
+                                (
+                                    SELECT 1 FROM Inventory_Management1 WHERE Product_Name = @name
+                                );
+                            COMMIT;
                             ";
-                foreach(var x in dataTable.AsEnumerable())
+                foreach (var x in dataTable.AsEnumerable()) // PEGO O NUMERO LINHAS
                 {
                     var list = CalculateAllColumns(
                                             x.Field<string>("String_Product"));
 
-                    Dictionary<string, object> keyValuePairs = new Dictionary<string, object>();
+                    Dictionary<string, object> keyValuePairs = new Dictionary<string, object>(); // PEGO NOME
                     keyValuePairs.Add("@name", x.Field<string>("String_Product"));
                     keyValuePairs.Add("@quantity", list["quantity"]);
                     keyValuePairs.Add("@amountUN", list["amountUN"]);
@@ -505,9 +536,16 @@ namespace Gestão_Estoque
                     keyValuePairs.Add("@solds", list["units_solds"]);
                     keyValuePairs.Add("@date_expiration", list["date_expiration"]);
 
-                    SQLite.DataManipulationLanguage(query1, keyValuePairs);
+                    SQLite.DataManipulationLanguage(query, keyValuePairs);
+
                 }
+                
             }
+        }
+        public void Dispose()
+        {
+            GC.SuppressFinalize(this);
         }
     }
 }
+
