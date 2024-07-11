@@ -1,5 +1,12 @@
-Gerenciamento completo de pacientes, com authentificação, pagamentos, relatorios, cadastro de erros e mensageria..
-Gerenciamento de funcionarios com flexibilidade e ajustes, além de ajudas do software. Terá tudo do que tera nos pacientes, porém com mais funcionalidades
-Gerenciamento de Finanças da empresa.
-Supervisão geral de cada departamento, assim monitorando os setores que precisam de + ou - méicos!
-//--- Outras funcionalidades podem ser adicionadas futuramente ---
+	Visão geral do projeto atual:
+		Feito somente como prototipo. Está incompleto e haverá grandes atualizações futuramente, 
+			mas em uma arquitetura de micro-serviços!
+		OBS: Design não é meu forte, então, desconsidere...
+
+	Funcionalidades ->
+		Gerenciamento completo de pacientes, com authentificação, pagamentos, relatorios, cadastro de erros e mensageria..
+		Gerenciamento de funcionarios com flexibilidade e ajustes, além de ajudas do software. Terá tudo do que tera nos pacientes, 
+			porém com mais funcionalidades
+		Gerenciamento de Finanças da empresa.
+		Supervisão geral de cada departamento, assim monitorando os setores que precisam de + ou - méicos!
+		//--- Outras funcionalidades podem ser adicionadas futuramente ---
